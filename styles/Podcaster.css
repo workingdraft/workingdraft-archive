@@ -1,0 +1,14 @@
+.podcaster-card {
+  display: flex;
+  align-items: flex-start;
+  color: black;
+  text-decoration: none;
+}
+
+.podcaster-card h3 {
+  margin-top: 0;
+}
+
+.podcaster-group {
+  margin-left: 2rem;
+}

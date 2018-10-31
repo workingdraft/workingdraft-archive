@@ -1,0 +1,5585 @@
+{
+  "1": {
+    "id": 1,
+    "date": "2010-11-02",
+    "duration": "00:57:46",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/1/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1/0/Revision1_-Sencha-Animator-Webfernsehen-und-Firesheep.mp3",
+    "title": "Sencha Animator, Webfernsehen und Firesheep"
+  },
+  "2": {
+    "id": 2,
+    "date": "2010-11-09",
+    "duration": "01:05:48",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/2/",
+    "audio": "http://workingdraft.de/podpress_trac/web/25/0/revision21.mp3",
+    "title": "mod_pagespeed, Sub-Pixel-Positionierung und viel Hall"
+  },
+  "3": {
+    "id": 3,
+    "date": "2010-11-16",
+    "duration": "01:06:07",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/3/",
+    "audio": "http://workingdraft.de/podpress_trac/web/60/0/Revision-3_-FF4Beta7-F1-und-Google-Instant-Previews.mp3",
+    "title": "FF4Beta7, F1 und Google Instant Previews"
+  },
+  "4": {
+    "id": 4,
+    "date": "2010-11-23",
+    "duration": "00:59:06",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "polarity"
+    ],
+    "href": "http://workingdraft.de/4/",
+    "audio": "http://workingdraft.de/podpress_trac/web/93/0/Revision-4_-Sencha-Touch-1.0-IE9-JS-und-HTML5-Gaming.mp3",
+    "title": "Sencha Touch 1.0, IE9-JS und HTML5-Gaming"
+  },
+  "5": {
+    "id": 5,
+    "date": "2010-11-30",
+    "duration": "00:50:28",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/5/",
+    "audio": "http://workingdraft.de/podpress_trac/web/105/0/Revision5_-iOS-4.2-Opera-11-Web-Messaging-und-Kinect.mp3",
+    "title": "iOS 4.2, Opera 11, Web Messaging und Kinect"
+  },
+  "6": {
+    "id": 6,
+    "date": "2010-12-07",
+    "duration": "01:02:51",
+    "people": [
+      "derSchepp",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/6/",
+    "audio": "http://workingdraft.de/podpress_trac/web/130/0/Revision-6_-Firebug-1.6-head.js-Adventskalender-und-alle-sind-krank.mp3",
+    "title": "Firebug 1.6, head.js, Adventskalender und alle sind krank"
+  },
+  "7": {
+    "id": 7,
+    "date": "2010-12-14",
+    "duration": "00:38:33",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/7/",
+    "audio": "http://workingdraft.de/podpress_trac/web/145/0/Revision-7_-Dateisystem-Android-2.3-Websockets-Protokoll-Glitch-CSS-2.1.mp3",
+    "title": "Dateisystem, Android 2.3, Websockets-Protokoll-Glitch, CSS 2.1"
+  },
+  "8": {
+    "id": 8,
+    "date": "2010-12-21",
+    "duration": "01:18:46",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/8/",
+    "audio": "http://workingdraft.de/podpress_trac/web/164/0/Revision-8_-CrankShaft-Treesaver-und-ControlJS.mp3",
+    "title": "CrankShaft, Treesaver und ControlJS"
+  },
+  "9": {
+    "id": 9,
+    "date": "2011-01-11",
+    "duration": "00:57:41",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "muehlwitz",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/9/",
+    "audio": "http://workingdraft.de/podpress_trac/web/186/0/Revision-9_-DOM-Monster-Drupal-7-und-2.2250738585072011e-308.mp3",
+    "title": "DOM-Monster, Drupal 7 und 2.2250738585072011e-308"
+  },
+  "10": {
+    "id": 10,
+    "date": "2011-01-18",
+    "duration": "01:21:29",
+    "people": [
+      "derSchepp",
+      "gerritvanaaken",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/10/",
+    "audio": "http://workingdraft.de/podpress_trac/web/212/0/Revision-10_-H.264-vs.-WebM-Shadow-DOM-und-w3fools.com_.mp3",
+    "title": "H.264 vs. WebM, Shadow DOM und w3fools.com"
+  },
+  "11": {
+    "id": 11,
+    "date": "2011-01-25",
+    "duration": "01:06:07",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "nicobruenjes"
+    ],
+    "href": "http://workingdraft.de/11/",
+    "audio": "http://workingdraft.de/podpress_trac/web/250/0/wd-11.mp3",
+    "title": "HTML5 +Logo -5, Markup-Manipulation und IP-Adressen-Endzeit"
+  },
+  "12": {
+    "id": 12,
+    "date": "2011-02-01",
+    "duration": "01:03:22",
+    "people": [
+      "Tobias Oberrauch",
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/12/",
+    "audio": "http://workingdraft.de/podpress_trac/web/279/0/wd-12.mp3",
+    "title": "CSS-Reset, IE9 RC1 und Harmony"
+  },
+  "13": {
+    "id": 13,
+    "date": "2011-02-08",
+    "duration": "01:09:19",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/13/",
+    "audio": "http://workingdraft.de/podpress_trac/web/307/0/wd-13.mp3",
+    "title": "Screen Presenter, Chromeless und Clipboard API"
+  },
+  "14": {
+    "id": 14,
+    "date": "2011-02-15",
+    "duration": "01:11:24",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/14/",
+    "audio": "http://workingdraft.de/podpress_trac/web/329/0/wd-14.mp3",
+    "title": "Hashbangs, PhantomJS und Github-Gene"
+  },
+  "15": {
+    "id": 15,
+    "date": "2011-02-22",
+    "duration": "01:01:55",
+    "people": [
+      "MadeMyDay",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/15/",
+    "audio": "http://workingdraft.de/podpress_trac/web/355/0/wd-15.mp3",
+    "title": "IE9 unmodern? Teure Featuredetection? Pareto-Prinzip?"
+  },
+  "16": {
+    "id": 16,
+    "date": "2011-03-01",
+    "duration": "02:01:26",
+    "people": [
+      "derSchepp",
+      "dm_ms",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/16/",
+    "audio": "http://workingdraft.de/podpress_trac/web/407/0/wd-16.mp3",
+    "title": "Interview mit Microsoft"
+  },
+  "17": {
+    "id": 17,
+    "date": "2011-03-08",
+    "duration": "01:05:40",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/17/",
+    "audio": "http://workingdraft.de/podpress_trac/web/422/0/wd-17.mp3",
+    "title": "A/B-Test, Animationen, Canvas und WebGL"
+  },
+  "18": {
+    "id": 18,
+    "date": "2011-03-22",
+    "duration": "01:07:32",
+    "people": [
+      "derCemDerin",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/18/",
+    "audio": "http://workingdraft.de/podpress_trac/web/445/0/wd-18.mp3",
+    "title": "Scoped Styles, Web Inspector Remote, Bildmanipulation in PHP"
+  },
+  "19": {
+    "id": 19,
+    "date": "2011-03-29",
+    "duration": "00:59:24",
+    "people": [
+      "dantz",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/19/",
+    "audio": "http://workingdraft.de/podpress_trac/web/462/0/wd-19.mp3",
+    "title": "Barcamp, HTML5 Buch, Device-API und Manifest-Validator"
+  },
+  "20": {
+    "id": 20,
+    "date": "2011-04-07",
+    "duration": "00:52:35",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/20/",
+    "audio": "http://workingdraft.de/podpress_trac/web/473/0/wd-20.mp3",
+    "title": "HTTPArchive, dynaTrace und AmplifyJS"
+  },
+  "21": {
+    "id": 21,
+    "date": "2011-04-12",
+    "duration": "01:32:56",
+    "people": [
+      "derSchepp",
+      "djesse",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/21/",
+    "audio": "http://workingdraft.de/podpress_trac/web/482/0/wd-21.mp3",
+    "title": "SPDY, Mobile UI, Webshims, und alles hardboiled!"
+  },
+  "22": {
+    "id": 22,
+    "date": "2011-04-19",
+    "duration": "01:01:40",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/22/",
+    "audio": "http://workingdraft.de/podpress_trac/web/490/0/wd-22.mp3",
+    "title": "IE10, Live.js und Favicons"
+  },
+  "23": {
+    "id": 23,
+    "date": "2011-05-03",
+    "duration": "00:59:16",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/23/",
+    "audio": "http://workingdraft.de/podpress_trac/web/520/0/wd-23.mp3",
+    "title": "Node-SPDY, Zukunftskram und CoffeeKup"
+  },
+  "24": {
+    "id": 24,
+    "date": "2011-05-10",
+    "duration": "00:53:53",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/24/",
+    "audio": "http://workingdraft.de/podpress_trac/web/537/0/wd-24.mp3",
+    "title": "Silbentrennung, Semikola und Reward.js"
+  },
+  "25": {
+    "id": 25,
+    "date": "2011-05-17",
+    "duration": "00:58:45",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/25/",
+    "audio": "http://workingdraft.de/podpress_trac/web/555/0/wd-25.mp3",
+    "title": "Visibility API und Chromebooks"
+  },
+  "26": {
+    "id": 26,
+    "date": "2011-05-24",
+    "duration": "01:36:23",
+    "people": [
+      "Flocke",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/26/",
+    "audio": "http://workingdraft.de/podpress_trac/web/577/0/wd-26.mp3",
+    "title": "Viel Internet Explorer"
+  },
+  "27": {
+    "id": 27,
+    "date": "2011-06-01",
+    "duration": "01:14:16",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/27/",
+    "audio": "",
+    "title": "Revision 27: @viewport, Tastatursteuerung und Aurora 6"
+  },
+  "28": {
+    "id": 28,
+    "date": "2011-06-23",
+    "duration": "01:57:32",
+    "people": [
+      "derCemDerin",
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/28/",
+    "audio": "http://workingdraft.de/podpress_trac/web/611/0/wd-28.mp3",
+    "title": "Niemand hat Lion oder iOS 5"
+  },
+  "29": {
+    "id": 29,
+    "date": "2011-06-28",
+    "duration": "00:37:21",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/29/",
+    "audio": "http://workingdraft.de/podpress_trac/web/629/0/wd-29.mp3",
+    "title": "VisualSearch.js und Twitter-Spam"
+  },
+  "30": {
+    "id": 30,
+    "date": "2011-07-06",
+    "duration": "01:23:24",
+    "people": [
+      "Flocke",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/30/",
+    "audio": "http://workingdraft.de/podpress_trac/web/641/0/wd-30.mp3",
+    "title": "IE10, Google+ und Dr.Web"
+  },
+  "31": {
+    "id": 31,
+    "date": "2011-07-15",
+    "duration": "01:23:02",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/31/",
+    "audio": "http://workingdraft.de/podpress_trac/web/657/0/wd-31.mp3",
+    "title": "Takeout, OpenCL und Memory Management"
+  },
+  "32": {
+    "id": 32,
+    "date": "2011-07-21",
+    "duration": "01:28:14",
+    "people": [
+      "bueltge",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/32/",
+    "audio": "http://workingdraft.de/podpress_trac/web/666/0/wd-32.mp3",
+    "title": "Zwei hoch fünf"
+  },
+  "33": {
+    "id": 33,
+    "date": "2011-07-26",
+    "duration": "01:09:50",
+    "people": [
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/33/",
+    "audio": "http://workingdraft.de/podpress_trac/web/684/0/wd-33.mp3",
+    "title": "Peter hat ein MacBook Air!"
+  },
+  "34": {
+    "id": 34,
+    "date": "2011-08-02",
+    "duration": "00:57:40",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/34/",
+    "audio": "http://workingdraft.de/podpress_trac/web/700/0/wd-34.mp3",
+    "title": "Kontraste und Kleinscheiß"
+  },
+  "35": {
+    "id": 35,
+    "date": "2011-08-10",
+    "duration": "00:54:50",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/35/",
+    "audio": "http://workingdraft.de/podpress_trac/web/711/0/wd-35.mp3",
+    "title": "PhoneGap und Web Intents"
+  },
+  "36": {
+    "id": 36,
+    "date": "2011-08-17",
+    "duration": "01:08:27",
+    "people": [
+      "derSchepp",
+      "helloanselm",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/36/",
+    "audio": "http://workingdraft.de/podpress_trac/web/727/0/wd-36.mp3",
+    "title": "Ohne Jan, aber mit Delay"
+  },
+  "37": {
+    "id": 37,
+    "date": "2011-08-25",
+    "duration": "01:37:55",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "distilledhype",
+      "markus_schlegel"
+    ],
+    "href": "http://workingdraft.de/37/",
+    "audio": "http://workingdraft.de/podpress_trac/web/742/0/wd-37.mp3",
+    "title": "speak.js, Native Client und JS-MVC-Frameworks"
+  },
+  "38": {
+    "id": 38,
+    "date": "2011-08-30",
+    "duration": "01:35:57",
+    "people": [
+      "derSchepp",
+      "djesse",
+      "yellowled"
+    ],
+    "href": "http://workingdraft.de/38/",
+    "audio": "http://workingdraft.de/podpress_trac/web/751/0/wd-38.mp3",
+    "title": "Gridsysteme und Best Practices"
+  },
+  "39": {
+    "id": 39,
+    "date": "2011-09-07",
+    "duration": "00:48:50",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/39/",
+    "audio": "http://workingdraft.de/podpress_trac/web/774/0/wd-39.mp3",
+    "title": "Zucker, Bullenkot und GEFÄNGNIS"
+  },
+  "40": {
+    "id": 40,
+    "date": "2011-09-16",
+    "duration": "01:40:07",
+    "people": [
+      "derSchepp",
+      "fhemberger",
+      "markus_schlegel",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/40/",
+    "audio": "http://workingdraft.de/podpress_trac/web/783/0/wd-40.mp3",
+    "title": "Zerskyped"
+  },
+  "41": {
+    "id": 41,
+    "date": "2011-09-27",
+    "duration": "01:18:01",
+    "people": [
+      "derSchepp",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/41/",
+    "audio": "http://workingdraft.de/podpress_trac/web/793/0/wd-41.mp3",
+    "title": "setImmediate API, CSS Compositing und überflüssiges HTML5"
+  },
+  "42": {
+    "id": 42,
+    "date": "2011-12-08",
+    "duration": "01:20:02",
+    "people": [
+      "derSchepp",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/42/",
+    "audio": "http://workingdraft.de/podpress_trac/web/812/0/wd-42.mp3",
+    "title": "Zweiundvierzig!"
+  },
+  "43": {
+    "id": 43,
+    "date": "2011-10-20",
+    "duration": "01:15:54",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/43/",
+    "audio": "http://workingdraft.de/podpress_trac/web/826/0/wd-43.mp3",
+    "title": "Tripreports, CSS Image Values und Dart"
+  },
+  "44": {
+    "id": 44,
+    "date": "2011-10-28",
+    "duration": "01:01:05",
+    "people": [
+      "derSchepp",
+      "maddesigns",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/44/",
+    "audio": "http://workingdraft.de/podpress_trac/web/845/0/wd-44.mp3",
+    "title": "HTTP-Statuscodes, TYPO3 und ‘n Echo, echo, cho, o…."
+  },
+  "45": {
+    "id": 45,
+    "date": "2011-11-03",
+    "duration": "01:16:39",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/45/",
+    "audio": "http://workingdraft.de/podpress_trac/web/856/0/wd-45.mp3",
+    "title": "H.264 in JS, jQuery Standards Team & OccupyHTML5!"
+  },
+  "46": {
+    "id": 46,
+    "date": "2011-11-08",
+    "duration": "01:22:44",
+    "people": [
+      "derSchepp",
+      "draftkraft",
+      "markus_schlegel",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/46/",
+    "audio": "http://workingdraft.de/podpress_trac/web/875/0/wd-46.mp3",
+    "title": "Aloha Editor, jQuery 1.7 und halbgare Zukunftstechniken"
+  },
+  "47": {
+    "id": 47,
+    "date": "2011-11-15",
+    "duration": "00:54:32",
+    "people": [
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/47/",
+    "audio": "http://workingdraft.de/podpress_trac/web/886/0/wd-47.mp3",
+    "title": "Firefox 8, Aurora 10 und jQuery-Diät mit dem dynamischen Duo"
+  },
+  "48": {
+    "id": 48,
+    "date": "2011-11-24",
+    "duration": "00:54:00",
+    "video": "http://www.youtube.com/watch?v=aFEiw0SEMyw",
+    "lang": "EN",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "drublic",
+      "fernmuendlich",
+      "fhemberger",
+      "helloanselm",
+      "macx",
+      "maddesigns",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/48/",
+    "audio": "http://workingdraft.de/podpress_trac/web/890/0/wd-48.mp3",
+    "title": "Direkt von der beyond tellerrand. In Bewegtbild!"
+  },
+  "49": {
+    "id": 49,
+    "date": "2011-12-01",
+    "duration": "01:19:55",
+    "people": [
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/49/",
+    "audio": "http://workingdraft.de/podpress_trac/web/914/0/wd-49.mp3",
+    "title": "Devtools und Kleinvieh"
+  },
+  "50": {
+    "id": 50,
+    "date": "2011-12-06",
+    "duration": "01:02:43",
+    "people": [
+      "derSchepp",
+      "makochnet"
+    ],
+    "href": "http://workingdraft.de/50/",
+    "audio": "http://workingdraft.de/podpress_trac/web/925/0/wd-50.mp3",
+    "title": "P3P olé!"
+  },
+  "51": {
+    "id": 51,
+    "date": "2011-12-13",
+    "duration": "01:13:20",
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/51/",
+    "audio": "http://workingdraft.de/podpress_trac/web/931/0/wd-51.mp3",
+    "title": "AMD, jQuery Plugin Repo & Alphatier-Gekabbel"
+  },
+  "52": {
+    "id": 52,
+    "date": "2011-12-23",
+    "duration": "01:01:32",
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/52/",
+    "audio": "http://workingdraft.de/podpress_trac/web/945/0/wd-52.mp3",
+    "title": "Android 4.0, Webvideo & CoffeeScript"
+  },
+  "53": {
+    "id": 53,
+    "date": "2011-12-30",
+    "duration": "00:49:53",
+    "video": "http://www.youtube.com/watch?v=va9xlJCbDZI",
+    "lang": "EN",
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/53/",
+    "audio": "http://workingdraft.de/podpress_trac/web/951/0/wd-53.mp3",
+    "title": "At the Smashing Magazine meetup!"
+  },
+  "54": {
+    "id": 54,
+    "date": "2012-01-11",
+    "duration": "01:17:44",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/54/",
+    "audio": "http://workingdraft.de/podpress_trac/web/962/0/wd-54.mp3",
+    "title": "Ein Sack voll Firefox, lahmes CSS und Media Queries"
+  },
+  "55": {
+    "id": 55,
+    "date": "2012-01-18",
+    "duration": "01:01:21",
+    "people": [
+      "derSchepp",
+      "distilledhype"
+    ],
+    "href": "http://workingdraft.de/55/",
+    "audio": "http://workingdraft.de/podpress_trac/web/974/0/wd-55.mp3",
+    "title": "Webfundstücke und Devtools"
+  },
+  "56": {
+    "id": 56,
+    "date": "2012-01-26",
+    "duration": "01:03:50",
+    "people": [
+      "MadeMyDay",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/56/",
+    "audio": "http://workingdraft.de/podpress_trac/web/990/0/wd-56.mp3",
+    "title": "Font.js, CSS3 UI & Wunderkit"
+  },
+  "57": {
+    "id": 57,
+    "date": "2012-02-09",
+    "duration": "00:50:26",
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/57/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1004/0/wd-57.mp3",
+    "title": "IDBExplorer, Gradient Syntax & Wrap.js"
+  },
+  "58": {
+    "id": 58,
+    "date": "2012-02-16",
+    "duration": "01:31:36",
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/58/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1018/0/wd-58.mp3",
+    "title": "-webkit-CSS3, -webkit-SEO und -webkit-MMT"
+  },
+  "59": {
+    "id": 59,
+    "date": "2012-02-23",
+    "duration": "01:15:22",
+    "people": [
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/59/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1038/0/wd-59.mp3",
+    "title": "Wie ticken Webentwickler?"
+  },
+  "60": {
+    "id": 60,
+    "date": "2012-02-29",
+    "duration": "01:15:01",
+    "people": [
+      "derSchepp",
+      "djesse"
+    ],
+    "href": "http://workingdraft.de/60/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1053/0/wd-60.mp3",
+    "title": "Adobe Edge, Web Components & Informationsquellen"
+  },
+  "61": {
+    "id": 61,
+    "date": "2012-03-07",
+    "duration": "01:04:24",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/61/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1063/0/wd-61.mp3",
+    "title": "HTML5 Please API, Boot to Gecko, Image Replacements"
+  },
+  "62": {
+    "id": 62,
+    "date": "2012-03-13",
+    "duration": "00:56:55",
+    "people": [
+      "derPepo",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/62/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1081/0/wd-62.mp3",
+    "title": "Adobe Shadow, Mobile und Gerante – Live!"
+  },
+  "63": {
+    "id": 63,
+    "date": "2012-03-29",
+    "duration": "01:20:38",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/63/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1095/0/wd-63.mp3",
+    "title": "Responsiver Content, Firefox 11 und Offene Datenquellen",
+    "trello": "https://trello.com/b/ifftwlQ3/revision-63"
+  },
+  "64": {
+    "id": 64,
+    "date": "2012-03-01",
+    "duration": "01:12:49",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "marcthiele"
+    ],
+    "href": "http://workingdraft.de/64/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1109/0/wd-64.mp3",
+    "title": "Source Maps, Event Capturing & beyond tellerrand – play"
+  },
+  "65": {
+    "id": 65,
+    "date": "2012-04-03",
+    "duration": "00:53:59",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/65/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1125/0/wd-65.mp3",
+    "title": "Infinite Transition Delays, jQuery Hooks, ECMAScript 6"
+  },
+  "66": {
+    "id": 66,
+    "date": "2012-04-13",
+    "duration": "00:53:37",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/66/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1142/0/wd-66.mp3",
+    "title": "CSS-Variablen, Homo-Ehe und ein Werbeblock"
+  },
+  "67": {
+    "id": 67,
+    "date": "2012-04-19",
+    "duration": "01:14:21",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/67/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1153/0/wd-67.mp3",
+    "title": "Meteor, Media Queries, Light Table"
+  },
+  "68": {
+    "id": 68,
+    "date": "2012-04-30",
+    "duration": "00:59:21",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "fhemberger"
+    ],
+    "href": "http://workingdraft.de/68/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1167/0/wd-68.mp3",
+    "title": "Ein <dialog> aus scharfem Pink und Grunzern"
+  },
+  "69": {
+    "id": 69,
+    "date": "2012-05-02",
+    "duration": "00:57:29",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/69/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1183/0/wd-69.mp3",
+    "title": "CSS Battle Royale – Opera"
+  },
+  "70": {
+    "id": 70,
+    "date": "2012-05-10",
+    "duration": "00:50:24",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "fhemberger",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/70/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1195/0/wd-70.mp3",
+    "title": "JS Styleguides, Barrierefreiheit & Web Intents"
+  },
+  "71": {
+    "id": 71,
+    "date": "2012-05-15",
+    "duration": "01:07:49",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/71/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1216/0/wd-71.mp3",
+    "title": "Error.stack, Physical Units & DOM Mutation Observers"
+  },
+  "72": {
+    "id": 72,
+    "date": "2012-05-22",
+    "duration": "01:00:59",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/72/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1227/0/wd-72.mp3",
+    "title": "SASS vs. LESS & Googlebot vs. JavaScript"
+  },
+  "73": {
+    "id": 73,
+    "date": "2012-06-01",
+    "duration": "01:09:06",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm"
+    ],
+    "href": "http://workingdraft.de/73/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1250/0/wd73.mp3",
+    "title": "Von CSS Blenden, Cross-Domain-Requests und responsiven Bildern"
+  },
+  "74": {
+    "id": 74,
+    "date": "2012-06-06",
+    "duration": "00:20:52",
+    "live": true,
+    "people": [
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/74/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1262/0/wd-74.mp3",
+    "title": "Social-Media-Buttons, Links und die kürzeste Revision aller Zeiten"
+  },
+  "75": {
+    "id": 75,
+    "date": "2012-06-14",
+    "duration": "00:15:50",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/75/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1271/0/wd-75.mp3",
+    "title": "News, Links und die diesmal wirklich kürzeste Revision aller Zeiten",
+    "trello": "https://trello.com/b/DDHBY3ju/revision-75"
+  },
+  "76": {
+    "id": 76,
+    "date": "2012-06-23",
+    "duration": "01:13:13",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/76/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1285/0/wd-76.mp3",
+    "title": "Testen, Dokumentieren und Abhängigkeiten verwalten",
+    "trello": "https://trello.com/b/I1oqkQ1J/revision-76"
+  },
+  "77": {
+    "id": 77,
+    "date": "2012-06-27",
+    "duration": "01:04:12",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/77/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1309/0/wd-77.mp3",
+    "title": "Do not Track, IHK-Petition und Web Components",
+    "trello": "https://trello.com/b/Wn92Ax1S/revision-77"
+  },
+  "78": {
+    "id": 78,
+    "date": "2012-07-04",
+    "duration": "01:15:08",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/78/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1333/0/wd-78.mp3",
+    "title": "Editoren, jQuery, Yeoman, Browser",
+    "trello": "https://trello.com/b/miZlApq9/revision-78"
+  },
+  "79": {
+    "id": 79,
+    "date": "2012-07-11",
+    "duration": "00:35:52",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/79/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1351/0/wd-79.mp3",
+    "title": "File System API, Chrome Apps und ein Haufen Links",
+    "trello": "https://trello.com/b/kUrwrqk0/revision-79"
+  },
+  "80": {
+    "id": 80,
+    "date": "2012-07-18",
+    "duration": "00:53:25",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/80/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1365/0/wd-80.mp3",
+    "title": "X-Tag, Print Styles und IE-Basher bashen",
+    "trello": "https://trello.com/b/ZSKtGbBq/revision-80"
+  },
+  "81": {
+    "id": 81,
+    "date": "2012-07-29",
+    "duration": "00:47:30",
+    "live": true,
+    "people": [
+      "bkastl",
+      "derSchepp",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/81/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1378/0/wd-81.mp3",
+    "title": "Seamless Iframes, relative Fontgrößen und ein Berg Links",
+    "trello": "https://trello.com/b/GMtcolri/revision-81"
+  },
+  "82": {
+    "id": 82,
+    "date": "2012-08-01",
+    "duration": "01:13:07",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "helloanselm"
+    ],
+    "href": "http://workingdraft.de/82/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1389/0/wd-82.mp3",
+    "title": "Wiederverwertbarkeit von CSS & Web Security",
+    "trello": "https://trello.com/b/OhB8NjW5/revision-82"
+  },
+  "83": {
+    "id": 83,
+    "date": "2012-08-10",
+    "duration": "00:52:22",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/83/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1398/0/wd-83.mp3",
+    "title": "ECMAScript 6, @supports, WebRTC",
+    "trello": "https://trello.com/b/evJCvsbb/revision-83"
+  },
+  "84": {
+    "id": 84,
+    "date": "2012-08-16",
+    "duration": "01:01:18",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/84/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1414/0/wd-84.mp3",
+    "title": "jQuery, Git, Informationsverwaltung und jede Menge Links",
+    "trello": "https://trello.com/b/E5JfTe1T/revision-84"
+  },
+  "85": {
+    "id": 85,
+    "date": "2012-08-22",
+    "duration": "01:18:38",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "marcthiele",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/85/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1428/0/wd-85.mp3",
+    "title": "Konferenzen, CSS und Twitter",
+    "trello": "https://trello.com/b/ysqJl4J4/revision-85"
+  },
+  "86": {
+    "id": 86,
+    "date": "2012-08-31",
+    "duration": "00:35:24",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/86/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1457/0/wd86.mp3",
+    "title": "CAS und Object.observe",
+    "trello": "https://trello.com/b/DpFp7amF/revision-86"
+  },
+  "87": {
+    "id": 87,
+    "date": "2012-09-11",
+    "duration": "00:38:30",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/87/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1475/0/wd87.mp3",
+    "title": "Position Sticky",
+    "trello": "https://trello.com/b/UkHp2SPE/revision-87"
+  },
+  "88": {
+    "id": 88,
+    "date": "2012-09-15",
+    "duration": "00:48:16",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/88/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1484/0/wd-88.mp3",
+    "title": "Opus Codec, hot CSS Specs und Bower",
+    "trello": "https://trello.com/b/3aD82P9n/revision-88"
+  },
+  "89": {
+    "id": 89,
+    "date": "2012-09-27",
+    "duration": "01:12:09",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/89/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1501/0/wd89.mp3",
+    "title": "Mobile, Frameworks, iOS 6",
+    "trello": "https://trello.com/b/9sPmxajq/revision-89"
+  },
+  "90": {
+    "id": 90,
+    "date": "2012-10-10",
+    "duration": "01:04:18",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "fhemberger",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/90/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1528/0/wd-90.mp3",
+    "title": ".mobi-Gate, Persona und TypeScript",
+    "trello": "https://trello.com/b/qx6deaqd/revision-90"
+  },
+  "91": {
+    "id": 91,
+    "date": "2012-10-11",
+    "duration": "01:03:25",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/91/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1521/0/wd-91.mp3",
+    "title": "Konferenzen und HiDPI Bilder",
+    "trello": "https://trello.com/b/ylwYOdfq/revision-91"
+  },
+  "92": {
+    "id": 92,
+    "date": "2012-10-17",
+    "duration": "01:19:25",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "djesse",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/92/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1550/0/wd-92.mp3",
+    "title": "Firefox, Fullscreen API und Thinkin’ Tags",
+    "trello": "https://trello.com/b/3ZO9Nxrd/revision-92"
+  },
+  "93": {
+    "id": 93,
+    "date": "2012-10-26",
+    "duration": "01:40:11",
+    "live": true,
+    "people": [
+      "czillgens",
+      "derSchepp",
+      "distilledhype",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/93/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1569/0/wd-93.mp3",
+    "title": "Farbkontraste und die volle Responsive Dröhnung!",
+    "trello": "https://trello.com/b/RY1xilLD/revision-93"
+  },
+  "94": {
+    "id": 94,
+    "date": "2012-11-01",
+    "duration": "00:40:08",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/94/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1592/0/wd-94.mp3",
+    "title": "Test The Web Forward!",
+    "trello": "https://trello.com/b/AKJ5BCXl/revision-94"
+  },
+  "95": {
+    "id": 95,
+    "date": "2012-11-06",
+    "duration": "01:30:41",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "marcozehe",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/95/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1607/0/wd-95.mp3",
+    "title": "Vanilla Web und Accessibility",
+    "trello": "https://trello.com/b/oiC2kYlB/revision-95"
+  },
+  "96": {
+    "id": 96,
+    "date": "2012-11-14",
+    "duration": "00:30:04",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/96/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1620/0/wd-96.mp3",
+    "title": "News, HTML5 und Links",
+    "trello": "https://trello.com/b/GfqFMfez/revision-96"
+  },
+  "97": {
+    "id": 97,
+    "date": "2012-11-25",
+    "duration": "00:48:06",
+    "lang": "EN",
+    "live": true,
+    "people": [
+      "brucel",
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "macx",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/97/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1636/0/wd-97.mp3",
+    "title": "beyond tellerrand 2012 & Interview mit Bruce Lawson",
+    "trello": "https://trello.com/b/zdwiNd9C/revision-97"
+  },
+  "98": {
+    "id": 98,
+    "date": "2012-11-28",
+    "duration": "00:59:10",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/98/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1655/0/wd98.mp3",
+    "title": "IE10, HTML5 und CSS",
+    "trello": "https://trello.com/b/rWnpqxfW/revision-98"
+  },
+  "99": {
+    "id": 99,
+    "date": "2012-12-06",
+    "duration": "01:18:52",
+    "live": true,
+    "people": [
+      "MadeMyDay",
+      "distilledhype",
+      "drublic",
+      "fhemberger",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/99/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1672/0/wd-99.mp3",
+    "title": "ProcessWire, Sueddeutsche.de und mehr",
+    "trello": "https://trello.com/b/Eyk8Cyzr/revision-99"
+  },
+  "100": {
+    "id": 100,
+    "date": "2012-12-12",
+    "duration": "00:56:36",
+    "lang": "EN",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "distilledhype",
+      "drublic",
+      "paul_irish",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/100/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1694/0/wd-100.mp3",
+    "title": "Anniversary with Paul Irish",
+    "trello": "https://trello.com/b/1bvMMAbW/revision-100"
+  },
+  "101": {
+    "id": 101,
+    "date": "2012-12-19",
+    "duration": "00:51:52",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/101/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1714/0/wd-101.mp3",
+    "title": "Canvas, HTML5, Damals",
+    "trello": "https://trello.com/b/PKO5UoI5/revision-101"
+  },
+  "102": {
+    "id": 102,
+    "date": "2013-01-11",
+    "duration": "01:20:00",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/102/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1737/0/wd-102.mp3",
+    "title": "Templates, JPEGs, JavaScript und OpenSource",
+    "trello": "https://trello.com/b/okdqJFY8/revision-102"
+  },
+  "103": {
+    "id": 103,
+    "date": "2013-01-17",
+    "duration": "00:05:59",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/103/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1765/0/wd-103.mp3",
+    "title": "Keine Themen",
+    "trello": "https://trello.com/b/6CYyQNuF/revision-103"
+  },
+  "104": {
+    "id": 104,
+    "date": "2013-01-23",
+    "duration": "01:27:15",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "klick_ass",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/104/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1774/0/wd-104.mp3",
+    "title": "Open Device Labs und Webplatform.org-Docsprints",
+    "trello": "https://trello.com/b/YHiOwrTX/revision-104"
+  },
+  "105": {
+    "id": 105,
+    "date": "2013-01-30",
+    "duration": "00:53:13",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/105/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1789/0/wd-105.mp3",
+    "title": "CSS-Performance, Web Workers und ein paar Links",
+    "trello": "https://trello.com/b/DYiq6qNG/revision-105"
+  },
+  "106": {
+    "id": 106,
+    "date": "2013-02-08",
+    "duration": "00:48:59",
+    "live": true,
+    "people": [
+      "distilledhype",
+      "drublic",
+      "fhemberger"
+    ],
+    "href": "http://workingdraft.de/106/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1798/0/wd-106.mp3",
+    "title": "modern.IE, Textbalance und der ES5 Strict Mode",
+    "trello": "https://trello.com/b/xYmcEnbl/revision-106"
+  },
+  "107": {
+    "id": 107,
+    "date": "2013-02-13",
+    "duration": "00:45:50",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/107/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1808/0/wd-107.mp3",
+    "title": "Unresponsive Design, Docsprint und ein paar Links",
+    "trello": "https://trello.com/b/rllKyOTT/revision-107"
+  },
+  "108": {
+    "id": 108,
+    "date": "2013-02-20",
+    "duration": "00:47:52",
+    "live": true,
+    "people": [
+      "asciidisco",
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/108/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1816/0/wd-108.mp3",
+    "title": "asm.js, UA Sniffing und Operas Wechsel zu WebKit",
+    "trello": "https://trello.com/b/Yn9jyE9J/revision-108"
+  },
+  "109": {
+    "id": 109,
+    "date": "2013-03-01",
+    "duration": "00:38:43",
+    "live": true,
+    "people": [
+      "dantz",
+      "distilledhype",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/109/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1827/0/wd-109.mp3",
+    "title": "Counter Styles, mobile Betriebssysteme, HTML5-Linkelemente",
+    "trello": "https://trello.com/b/Lyfk5mz2/revision-109"
+  },
+  "110": {
+    "id": 110,
+    "date": "2013-03-05",
+    "duration": "00:37:28",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/110/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1838/0/wd-110.mp3",
+    "title": "Rendering Performance",
+    "trello": "https://trello.com/b/3vMYjKQO/revision-110"
+  },
+  "111": {
+    "id": 111,
+    "date": "2013-03-16",
+    "duration": "00:55:58",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "fhemberger",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/111/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1845/0/wd-111.mp3",
+    "title": "Performance-Proxy, Media Queries Level 4, http-client-hints",
+    "trello": "https://trello.com/b/D0s7H7lP/revision-111"
+  },
+  "112": {
+    "id": 112,
+    "date": "2013-03-19",
+    "duration": "00:40:22",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/112/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1853/0/wd-112.mp3",
+    "title": "Glücksrad und Links",
+    "trello": "https://trello.com/b/gJlSqIQ9/revision-112"
+  },
+  "113": {
+    "id": 113,
+    "date": "2013-03-29",
+    "duration": "00:49:31",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/113/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1868/0/wd-113.mp3",
+    "title": "jQuery vom CDN und Resize Events auf DOM Elementen",
+    "trello": "https://trello.com/b/e1adPdjJ/revision-113"
+  },
+  "114": {
+    "id": 114,
+    "date": "2013-04-07",
+    "duration": "01:06:37",
+    "live": true,
+    "people": [
+      "dantz",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/114/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1874/0/wd-114.mp3",
+    "title": "<template>, Appcache, asm.js versus Bytecode",
+    "trello": "https://trello.com/b/QV4tfMZF/revision-114"
+  },
+  "115": {
+    "id": 115,
+    "date": "2013-04-10",
+    "duration": "00:55:23",
+    "live": true,
+    "people": [
+      "MadeMyDay",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/115/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1886/0/wd-115.mp3",
+    "title": "Browsertriebwerke, RWD und Steinzeitmalerei",
+    "trello": "https://trello.com/b/1dlib9Dk/revision-115"
+  },
+  "116": {
+    "id": 116,
+    "date": "2013-04-16",
+    "duration": "01:41:58",
+    "live": true,
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "g16n",
+      "maddesigns",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/116/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1900/0/wd-116.mp3",
+    "title": "Konferenzen, Motion Design, IDs versus Classes",
+    "trello": "https://trello.com/b/i8aHNRtW/revision-116"
+  },
+  "117": {
+    "id": 117,
+    "date": "2013-04-25",
+    "duration": "01:07:02",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/117/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1913/0/wd-117.mp3",
+    "title": "jQuery, Performance, Links",
+    "trello": "https://trello.com/b/H5uaNDp1/revision-117"
+  },
+  "118": {
+    "id": 118,
+    "date": "2013-05-05",
+    "duration": "00:38:27",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/118/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1920/0/wd-118.mp3",
+    "title": "Die Problematik des Schätzens",
+    "trello": "https://trello.com/b/Hk23lvlg/revision-118"
+  },
+  "119": {
+    "id": 119,
+    "date": "2013-05-09",
+    "duration": "00:51:51",
+    "live": true,
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/119/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1932/0/wd-119.mp3",
+    "title": "Transitions, Flaggen, Links",
+    "trello": "https://trello.com/b/pjdHWytD/revision-119"
+  },
+  "120": {
+    "id": 120,
+    "date": "2013-05-18",
+    "duration": "00:50:40",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "drublic"
+    ],
+    "href": "http://workingdraft.de/120/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1942/0/wd-120.mp3",
+    "title": "CSS Strukturieren, Sinn und Unsinn von Touchdetection, DRM",
+    "trello": "https://trello.com/b/Aw8H3fUl/revision-120"
+  },
+  "121": {
+    "id": 121,
+    "date": "2013-05-22",
+    "duration": "01:05:04",
+    "live": true,
+    "people": [
+      "derSchepp",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/121/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1951/0/wd-121.mp3",
+    "title": "requestAutocomplete, Web Components, Offline-Detection",
+    "trello": "https://trello.com/b/IIhNss17/revision-121"
+  },
+  "122": {
+    "id": 122,
+    "date": "2013-06-04",
+    "duration": "00:34:17",
+    "people": [
+      "codepo8",
+      "derSchepp",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/122/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1959/0/wd-122.mp3",
+    "title": "Interview mit Chris Heilmann zu Firefox OS",
+    "trello": "https://trello.com/b/IFdqyppc/revision-122"
+  },
+  "123": {
+    "id": 123,
+    "date": "2013-06-09",
+    "duration": "00:53:53",
+    "live": [
+      {
+        "title": "Revision 123",
+        "href": "http://livestre.am/4u8L0",
+        "duration": "02:18:20",
+        "date": "2013-06-03"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/123/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1963/0/wd-123.mp3",
+    "title": "Cargo-Culting in JS, localStorage und Prerendering",
+    "trello": "https://trello.com/b/wbUESd7B/revision-123"
+  },
+  "124": {
+    "id": 124,
+    "date": "2013-06-14",
+    "duration": "00:50:08",
+    "live": [
+      {
+        "title": "Revision 124",
+        "href": "http://livestre.am/4uFO9",
+        "duration": "01:42:38",
+        "date": "2013-06-10"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/124/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1970/0/wd-124.mp3",
+    "title": "Screen Readers, CSP und In-depth Script Loading",
+    "trello": "https://trello.com/b/iTgvRKZd/revision-124"
+  },
+  "125": {
+    "id": 125,
+    "date": "2013-06-25",
+    "duration": "00:33:08",
+    "live": [
+      {
+        "title": "Revision 125",
+        "href": "http://livestre.am/4vQ2j",
+        "duration": "01:57:20",
+        "date": "2013-06-24"
+      }
+    ],
+    "people": [
+      "drublic",
+      "helloanselm"
+    ],
+    "href": "http://workingdraft.de/125/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1981/0/wd-125.mp3",
+    "title": "Bye, Bye, Chrome Frame und Table Layouts",
+    "trello": "https://trello.com/b/d7slgL8S/revision-125"
+  },
+  "126": {
+    "id": 126,
+    "date": "2013-07-06",
+    "duration": "00:46:48",
+    "live": [
+      {
+        "title": "Revision 126",
+        "href": "http://livestre.am/4wq0a",
+        "duration": "01:12:13",
+        "date": "2013-07-01"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "derSchepp"
+    ],
+    "href": "http://workingdraft.de/126/",
+    "audio": "http://workingdraft.de/podpress_trac/web/1989/0/wd-126.mp3",
+    "title": "Inputs, Formulare, Pseudoklassen und Origin",
+    "trello": "https://trello.com/b/ZdugMjsT/revision-126"
+  },
+  "127": {
+    "id": 127,
+    "date": "2013-07-09",
+    "duration": "00:46:21",
+    "live": [
+      {
+        "title": "Revision 127",
+        "href": "http://livestre.am/4wV4K",
+        "duration": "01:55:54",
+        "date": "2013-07-08"
+      }
+    ],
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/127/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2000/0/wd-127.mp3",
+    "title": "IE11, Glücksrad, Verlosung",
+    "trello": "https://trello.com/b/1CdZlf1i/revision-127"
+  },
+  "128": {
+    "id": 128,
+    "date": "2013-07-20",
+    "duration": "01:18:56",
+    "live": [
+      {
+        "title": "Revision 128",
+        "href": "http://livestre.am/4xt48",
+        "duration": "02:19:58",
+        "date": "2013-07-15"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "rodneyrehm",
+      "sippndipp",
+      "sir_pepe",
+      "thedeftone"
+    ],
+    "href": "http://workingdraft.de/128/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2014/0/wd-128.mp3",
+    "title": "CoffeeScript, mobile Apps, Gewinne",
+    "trello": "https://trello.com/b/20kTH6Hs/revision-128"
+  },
+  "129": {
+    "id": 129,
+    "date": "2013-07-24",
+    "duration": "01:07:45",
+    "live": [
+      {
+        "title": "Revision 129 zweite Hälfte",
+        "href": "http://livestre.am/4y3le",
+        "duration": "00:15:21",
+        "date": "2013-07-22"
+      }
+    ],
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/129/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2021/0/wd-129.mp3",
+    "title": "Zuschauerfragen sind heiß",
+    "trello": "https://trello.com/b/AMz8NdtE/revision-129"
+  },
+  "130": {
+    "id": 130,
+    "date": "2013-08-04",
+    "duration": "01:02:14",
+    "live": [
+      {
+        "title": "Revision 130",
+        "href": "http://livestre.am/4yFsE",
+        "duration": "02:04:48",
+        "date": "2013-07-29"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "justphilmusic",
+      "roobijn",
+      "sascha_brink"
+    ],
+    "href": "http://workingdraft.de/130/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2032/0/wd-130.mp3",
+    "title": "AngularJS – Superheroic JavaScript MVW Framework",
+    "trello": "https://trello.com/b/0QITRdG3/revision-130"
+  },
+  "131": {
+    "id": 131,
+    "date": "2013-08-12",
+    "duration": "00:38:30",
+    "people": [
+      "ddprrt",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/131/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2043/0/wd-131.mp3",
+    "title": "Zuschauerfragen die Zweite",
+    "trello": "https://trello.com/b/a4cNo5mF/revision-131"
+  },
+  "132": {
+    "id": 132,
+    "date": "2013-08-14",
+    "duration": "01:08:35",
+    "live": [
+      {
+        "title": "Revision 132",
+        "href": "http://livestre.am/4zJtC",
+        "duration": "01:50:53",
+        "date": "2013-08-12"
+      }
+    ],
+    "people": [
+      "asciidisco",
+      "derSchepp",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/132/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2054/0/wd-132.mp3",
+    "title": "Rund ums Testen",
+    "trello": "https://trello.com/b/Klv8omJ2/revision-132"
+  },
+  "133": {
+    "id": 133,
+    "date": "2013-08-25",
+    "duration": "01:00:31",
+    "live": true,
+    "people": [
+      "Flocke",
+      "ddprrt",
+      "helloanselm"
+    ],
+    "href": "http://workingdraft.de/133/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2068/0/wd-133.mp3",
+    "title": "Responsive Webdesign und CSS Frameworks",
+    "trello": "https://trello.com/b/LtodZ46x/revision-133"
+  },
+  "134": {
+    "id": 134,
+    "date": "2013-09-05",
+    "duration": "00:52:04",
+    "live": [
+      {
+        "title": "Revision 134 Teil 1",
+        "href": "http://livestre.am/4AOtv",
+        "duration": "00:48:03",
+        "date": "2013-08-26"
+      },
+      {
+        "title": "Revision 134 Teil 2",
+        "href": "http://livestre.am/4AOPD",
+        "duration": "01:31:58",
+        "date": "2013-08-26"
+      }
+    ],
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/134/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2077/0/wd-134.mp3",
+    "title": "News, CSS, Links",
+    "trello": "https://trello.com/b/jMKWpZGi/revision-134"
+  },
+  "135": {
+    "id": 135,
+    "date": "2013-09-09",
+    "duration": "00:48:32",
+    "live": [
+      {
+        "title": "Revision 135",
+        "href": "http://livestre.am/4BghD",
+        "duration": "01:37:04",
+        "date": "2013-09-02"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "yellowled"
+    ],
+    "href": "http://workingdraft.de/135/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2083/0/wd-135.mp3",
+    "title": "Progressive Enhancement, Sigh JavaScript und Bower",
+    "trello": "https://trello.com/b/HIxOHIMH/revision-135"
+  },
+  "136": {
+    "id": 136,
+    "date": "2013-09-16",
+    "duration": "00:55:40",
+    "live": [
+      {
+        "title": "Revision 136",
+        "href": "http://livestre.am/4BJRA",
+        "duration": "01:43:23",
+        "date": "2013-09-09"
+      }
+    ],
+    "people": [
+      "derSchepp",
+      "drublic",
+      "stn1978"
+    ],
+    "href": "http://workingdraft.de/136/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2090/0/wd-136.mp3",
+    "title": "Smashing Conference und ein moderner Design-Workflow",
+    "trello": "https://trello.com/b/0f8Vfb27/revision-136"
+  },
+  "137": {
+    "id": 137,
+    "date": "2013-09-24",
+    "duration": "01:25:37",
+    "live": [
+      {
+        "title": "Revision 137",
+        "href": "http://livestre.am/4CeV8",
+        "duration": "02:12:40",
+        "date": "2013-09-16"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/137/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2096/0/wd-137.mp3",
+    "title": "Mobile Browser Wonderland",
+    "trello": "https://trello.com/b/FFDBAPLS/revision-137"
+  },
+  "138": {
+    "id": 138,
+    "date": "2013-10-01",
+    "duration": "01:15:25",
+    "live": [
+      {
+        "title": "Revision 138",
+        "href": "http://livestre.am/4CGHx",
+        "duration": "01:41:44",
+        "date": "2013-09-23"
+      }
+    ],
+    "people": [
+      "Flocke",
+      "ddprrt",
+      "derSchepp",
+      "yellowled"
+    ],
+    "href": "http://workingdraft.de/138/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2100/0/wd-138.mp3",
+    "title": "Auf der roten CMS Couch",
+    "trello": "https://trello.com/b/1e382ml9/revision-138"
+  },
+  "139": {
+    "id": 139,
+    "date": "2013-10-06",
+    "duration": "01:16:21",
+    "live": [
+      {
+        "title": "Revision 139",
+        "href": "http://livestre.am/4Daxy",
+        "duration": "02:11:19",
+        "date": "2013-09-30"
+      }
+    ],
+    "people": [
+      "derSchepp",
+      "patrick_h_lauke",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/139/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2109/0/wd-139.mp3",
+    "title": "Toolchain-Kult und Touch-Events",
+    "trello": "https://trello.com/b/8x4HQOTz/revision-139"
+  },
+  "140": {
+    "id": 140,
+    "date": null,
+    "duration": "",
+    "live": [
+      {
+        "title": "Revision 140",
+        "href": "http://livestre.am/4DEy6",
+        "duration": "01:58:07",
+        "date": "2013-10-07"
+      }
+    ],
+    "people": [
+      "IngoKasch",
+      "asciidisco",
+      "jkphl",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/FErgIO1n/revision-140"
+  },
+  "141": {
+    "id": 141,
+    "date": "2013-10-19",
+    "duration": "00:50:47",
+    "live": [
+      {
+        "title": "Revision 141",
+        "href": "http://livestre.am/4EavU",
+        "duration": "01:48:35",
+        "date": "2013-10-14"
+      }
+    ],
+    "people": [
+      "codestars",
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/dKm2BQlu/revision-141",
+    "href": "http://workingdraft.de/141/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2126/0/wd-141.mp3",
+    "title": "Devops, statische Seiten und Links"
+  },
+  "142": {
+    "id": 142,
+    "date": "2013-10-27",
+    "duration": "00:59:16",
+    "live": [
+      {
+        "title": "Revision 142",
+        "href": "http://livestre.am/4EDIp",
+        "duration": "02:02:32",
+        "date": "2013-10-21"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/GbDfl8OY/revision-142",
+    "href": "http://workingdraft.de/142/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2132/0/wd-142.mp3",
+    "title": "Webfonts und IDEs"
+  },
+  "143": {
+    "id": 143,
+    "date": "2013-11-02",
+    "duration": "00:59:03",
+    "live": [
+      {
+        "title": "Revision 143",
+        "href": "http://livestre.am/4Fb7a",
+        "duration": "01:51:56",
+        "date": "2013-10-28"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/Ysc5QT67/revision-143",
+    "href": "http://workingdraft.de/143/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2141/0/wd-143.mp3",
+    "title": "CSS, Performance, Hörerfragen"
+  },
+  "144": {
+    "id": 144,
+    "date": "2013-11-17",
+    "duration": "00:52:11",
+    "live": [
+      {
+        "title": "Revision 144",
+        "href": "http://livestre.am/4FHZl",
+        "duration": "02:04:10",
+        "date": "2013-11-04"
+      }
+    ],
+    "people": [
+      "derSchepp",
+      "drublic",
+      "maddesigns"
+    ],
+    "trello": "https://trello.com/b/bTqq8U6q/revision-144",
+    "href": "http://workingdraft.de/144/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2151/0/wd-144.mp3",
+    "title": "RESS und unsere Deployment Strategien"
+  },
+  "145": {
+    "id": 145,
+    "date": "2013-11-19",
+    "duration": "00:58:05",
+    "live": [
+      {
+        "title": "Revision 145",
+        "href": "http://livestre.am/4G8HR",
+        "duration": "01:42:56",
+        "date": "2013-11-11"
+      }
+    ],
+    "people": [
+      "bastianallgeier",
+      "derSchepp",
+      "drublic",
+      "espylaub",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/RSXbAdcZ/revision-145",
+    "href": "http://workingdraft.de/145/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2156/0/wd-145.mp3",
+    "title": "Dezentralisierung und Hoodie"
+  },
+  "146": {
+    "id": 146,
+    "date": "2013-11-24",
+    "duration": "01:14:31",
+    "live": [
+      {
+        "title": "Revision 146",
+        "href": "http://livestre.am/4GAfO",
+        "duration": "02:42:43",
+        "date": "2013-11-18"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/rU9XPMiL/revision-146",
+    "href": "http://workingdraft.de/146/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2167/0/wd-146.mp3",
+    "title": "Responsive Images, Verträge und Links"
+  },
+  "147": {
+    "id": 147,
+    "date": "2013-12-03",
+    "duration": "01:08:24",
+    "live": [
+      {
+        "title": "Revision 147",
+        "href": "http://livestre.am/4H2r9",
+        "duration": "02:14:32",
+        "date": "2013-11-25"
+      }
+    ],
+    "people": [
+      "christophrumpel",
+      "ddprrt",
+      "derSchepp",
+      "drublic"
+    ],
+    "trello": "https://trello.com/b/M3n3SH6n/revision-147",
+    "href": "http://workingdraft.de/147/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2177/0/wd-147.mp3",
+    "title": "Über das INIT Boilerplate und das Laravel PHP-Framework"
+  },
+  "148": {
+    "id": 148,
+    "date": "2013-12-15",
+    "duration": "00:48:48",
+    "live": [
+      {
+        "title": "Revision 148",
+        "href": "http://livestre.am/4HsqZ",
+        "duration": "02:09:59",
+        "date": "2013-12-02"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/VsnLsrwP/revision-148",
+    "href": "http://workingdraft.de/148/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2186/0/wd-148.mp3",
+    "title": "Generatoren und Mutationen"
+  },
+  "149": {
+    "id": 149,
+    "date": "2013-12-25",
+    "duration": "00:59:23",
+    "live": [
+      {
+        "title": "Revision 149",
+        "href": "http://livestre.am/4HV81",
+        "duration": "01:58:28",
+        "date": "2013-12-09"
+      }
+    ],
+    "people": [
+      "ddprrt",
+      "drublic",
+      "gerritvanaaken"
+    ],
+    "trello": "https://trello.com/b/eLJuUVg8/revision-149",
+    "href": "http://workingdraft.de/149/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2193/0/wd-149.mp3",
+    "title": "Toolchains, WebFonts und Offline-First"
+  },
+  "150": {
+    "id": 150,
+    "date": "2013-12-29",
+    "duration": "00:17:58",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/Vcp5Gyg3/revision-150",
+    "href": "http://workingdraft.de/150/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2198/0/wd-150.mp3",
+    "title": "Kurz-Jubiläum mit News, Glücksrad und Links",
+    "live": [
+      {
+        "title": "Revision 150",
+        "href": "http://livestre.am/4Ilx6",
+        "duration": "00:48:21",
+        "date": "2013-12-16"
+      }
+    ]
+  },
+  "151": {
+    "id": 151,
+    "date": "2013-12-29",
+    "duration": "00:48:35",
+    "people": [
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/kVzl6Kis/revision-151",
+    "href": "http://workingdraft.de/151/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2225/0/wd-151.mp3",
+    "title": "Myth, statische Seiten, Links"
+  },
+  "152": {
+    "id": 152,
+    "date": "2014-01-08",
+    "duration": "01:19:50",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/6deppt9D/revision-152",
+    "href": "http://workingdraft.de/152/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2244/0/wd-152.mp3",
+    "live": [
+      {
+        "title": "Revision 152",
+        "href": "http://livestre.am/4J9Tq",
+        "duration": "03:04:51",
+        "date": "2013-12-30"
+      }
+    ],
+    "title": "JSPerf, Open Source, Gulp, Funktionales"
+  },
+  "153": {
+    "id": 153,
+    "date": "2014-01-19",
+    "duration": "00:53:20",
+    "people": [
+      "asciidisco",
+      "ddprrt",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/iM6IDNTa/revision-153",
+    "href": "http://workingdraft.de/153/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2256/0/wd-153.mp3",
+    "live": [
+      {
+        "title": "Revision 153",
+        "href": "http://livestre.am/4JyVT",
+        "duration": "01:05:20",
+        "date": "2014-01-06"
+      }
+    ],
+    "title": "Typecsset und die Web Speech API"
+  },
+  "154": {
+    "id": 154,
+    "date": "2014-01-22",
+    "duration": "00:51:14",
+    "people": [
+      "Acconut_",
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "fhemberger",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/iMhmWQo9/revision-154",
+    "href": "http://workingdraft.de/154/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2262/0/wd-154.mp3",
+    "live": [
+      {
+        "title": "Revision 154",
+        "href": "http://livestre.am/4JYP8",
+        "duration": "02:20:53",
+        "date": "2014-01-13"
+      }
+    ],
+    "title": "Vagrant und Clientside JavaScript Error Reporting"
+  },
+  "155": {
+    "id": 155,
+    "date": "2014-01-30",
+    "duration": "00:57:08",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/WBv907GY/revision-155",
+    "href": "http://workingdraft.de/155/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2269/0/wd-155.mp3",
+    "live": [
+      {
+        "title": "Revision 155",
+        "href": "http://livestre.am/4KpBn",
+        "duration": "01:54:09",
+        "date": "2014-01-20"
+      }
+    ],
+    "title": "Sass.js und die Konferenzen 2014"
+  },
+  "156": {
+    "id": 156,
+    "date": "2014-01-30",
+    "duration": "00:52:10",
+    "people": [
+      "ddprrt",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/Uj9HvFAm/revision-156",
+    "href": "http://workingdraft.de/156/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2277/0/wd-156.mp3",
+    "live": [
+      {
+        "title": "Revision 156",
+        "href": "http://livestre.am/4KUP4",
+        "duration": "02:13:01",
+        "date": "2014-01-27"
+      }
+    ],
+    "title": "Viewport Units in iOS und Gegenwind für CSS Regions"
+  },
+  "157": {
+    "id": 157,
+    "date": "2014-02-09",
+    "duration": "01:11:21",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/m34PnYWr/revision-157",
+    "href": "http://workingdraft.de/157/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2285/0/wd-157.mp3",
+    "live": [
+      {
+        "title": "Revision 157",
+        "href": "http://livestre.am/4Lm8K",
+        "duration": "01:59:25",
+        "date": "2014-02-03"
+      }
+    ],
+    "title": "Komplexes Markup, Styles Inlinen und HTTP/2"
+  },
+  "158": {
+    "id": 158,
+    "date": "2014-02-16",
+    "duration": "01:02:43",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "sir_pepe",
+      "tbaldauf"
+    ],
+    "trello": "https://trello.com/b/pVGY5rNF/revision-158",
+    "href": "http://workingdraft.de/158/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2296/0/wd-158.mp3",
+    "live": [
+      {
+        "title": "Revision 158",
+        "href": "http://livestre.am/4LQCy",
+        "duration": "00:53:56",
+        "date": "2014-02-10"
+      }
+    ],
+    "title": "Performance, Performance, Performance; sowie Leserfragen"
+  },
+  "159": {
+    "id": 159,
+    "date": "2014-03-02",
+    "duration": "00:56:08",
+    "people": [
+      "derSchepp",
+      "ddprrt",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/E2mEugHK/revision-159",
+    "live": [
+      {
+        "title": "Revision 159",
+        "href": "http://livestre.am/4MhTE",
+        "duration": "01:58:14",
+        "date": "2014-02-17"
+      }
+    ],
+    "href": "http://workingdraft.de/159/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2305/0/wd-159.mp3",
+    "title": "Grunt im Einsatz"
+  },
+  "160": {
+    "id": 160,
+    "date": "2014-03-02",
+    "duration": "01:17:09",
+    "people": [
+      "derSchepp",
+      "goloroden",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/Q3Fq8IiT/revision-160",
+    "live": [
+      {
+        "title": "Revision 160A",
+        "href": "http://livestre.am/4MLoC",
+        "duration": "01:02:20",
+        "date": "2014-02-24"
+      },
+      {
+        "title": "Revision 160B",
+        "href": "http://livestre.am/4MMDT",
+        "duration": "01:07:02",
+        "date": "2014-02-24"
+      }
+    ],
+    "href": "http://workingdraft.de/160/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2309/0/wd-160.mp3",
+    "title": "Node, JavaScript, Links"
+  },
+  "161": {
+    "id": 161,
+    "date": "2014-03-11",
+    "duration": "01:14:52",
+    "people": [
+      "asciidisco",
+      "codepo8",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/7eK1msZe/revision-161",
+    "live": [
+      {
+        "title": "Revision 161",
+        "href": "http://livestre.am/4Nc0p",
+        "duration": "01:59:07",
+        "date": "2014-03-03"
+      }
+    ],
+    "href": "http://workingdraft.de/161/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2318/0/wd-161.mp3",
+    "title": "Too Easy, Didn’t Learn"
+  },
+  "162": {
+    "id": 162,
+    "date": "2014-03-23",
+    "duration": "01:09:05",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "MarcoZehe",
+      "tcaspers"
+    ],
+    "trello": "https://trello.com/b/lrEkcMmB/revision-162",
+    "live": [
+      {
+        "title": "Revision 162",
+        "href": "http://livestre.am/4NypG",
+        "duration": "02:02:40",
+        "date": "2014-03-10"
+      }
+    ],
+    "href": "http://workingdraft.de/162/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2331/0/wd-162.mp3",
+    "title": "Indie UI"
+  },
+  "163": {
+    "id": 163,
+    "date": "2014-03-26",
+    "duration": "00:46:20",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/HrENwAYk/revision-163",
+    "live": [
+      {
+        "title": "Revision 163",
+        "href": "http://livestre.am/4NWWt",
+        "duration": "01:22:37",
+        "date": "2014-03-17"
+      }
+    ],
+    "href": "http://workingdraft.de/163/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2329/0/wd-163.mp3",
+    "title": "CSS-Glücksrad und Links"
+  },
+  "164": {
+    "id": 164,
+    "date": "2014-04-05",
+    "duration": "01:15:50",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "FabianBeiner",
+      "makochnet",
+      "Mr_Eis"
+    ],
+    "trello": "https://trello.com/b/bsmlQj5K/revision-164",
+    "href": "http://workingdraft.de/164/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2345/0/wd-164.mp3",
+    "title": "Die Welt der WebagenturenGewinnspiel"
+  },
+  "165": {
+    "id": 165,
+    "date": "2014-04-14",
+    "duration": "00:07:10",
+    "people": [
+      "ddprrt",
+      "Flocke",
+      "sir_pepe",
+      "yellowled"
+    ],
+    "trello": "https://trello.com/b/RqSws07I/revision-165",
+    "href": "http://workingdraft.de/165/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2355/0/wd-165.mp3",
+    "title": "Über den Webkongress Erlangen und den Zustand mancher Website"
+  },
+  "166": {
+    "id": 166,
+    "date": "2014-04-20",
+    "duration": "00:44:29",
+    "people": [
+      "drublic",
+      "passy",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/1jFY8pTr/revision-166",
+    "href": "http://workingdraft.de/166/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2362/0/wd-166.mp3",
+    "title": "Open Source, React und AssetGraph",
+    "live": [
+      {
+        "title": "Revision 166",
+        "href": "http://livestre.am/4P7Jv",
+        "duration": "02:01:34",
+        "date": "2014-04-07"
+      }
+    ]
+  },
+  "167": {
+    "id": 167,
+    "date": "2014-04-22",
+    "duration": "00:55:45",
+    "people": [
+      "derSchepp",
+      "marcthiele",
+      "bastianallgeier"
+    ],
+    "trello": "https://trello.com/b/VDzYcA6M/revision-167",
+    "href": "http://workingdraft.de/167/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2371/0/wd-167.mp3",
+    "title": "Das Decentralize Camp",
+    "live": [
+      {
+        "title": "Revision 167",
+        "href": "http://livestre.am/4Px5r",
+        "duration": "01:33:24",
+        "date": "2014-04-14"
+      }
+    ]
+  },
+  "168": {
+    "id": 168,
+    "date": "2014-04-30",
+    "duration": "01:07:39",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "pbakaus",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/fECmqXdd/revision-168",
+    "href": "http://workingdraft.de/168/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2380/0/wd-168.mp3",
+    "title": "Monitore, Bildkompression, Links",
+    "live": [
+      {
+        "title": "Revision 168",
+        "href": "http://livestre.am/4PTRH",
+        "duration": "02:09:49",
+        "date": "2014-04-21"
+      }
+    ]
+  },
+  "169": {
+    "id": 169,
+    "date": "2014-05-04",
+    "duration": "00:44:32",
+    "people": [
+      "derSchepp",
+      "Flocke",
+      "sir_pepe"
+    ],
+    "href": "http://workingdraft.de/169/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2387/0/wd-169.mp3",
+    "title": "Plausch im Biergarten"
+  },
+  "170": {
+    "id": 170,
+    "date": "2014-05-24",
+    "duration": "00:41:32",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/puukLW91/revision-170",
+    "href": "http://workingdraft.de/170/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2398/0/wd-170.mp3",
+    "title": "Inline SVGs vs Icon Fonts, Adaptive Placeholders und currentScript"
+  },
+  "171": {
+    "id": 171,
+    "date": "2014-05-24",
+    "duration": "01:03:52",
+    "people": [
+      "ddprrt",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/Iu67v9TI/revision-171",
+    "href": "http://workingdraft.de/171/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2403/0/wd-171.mp3",
+    "title": "Drag & Drop erklärbärt"
+  },
+  "172": {
+    "id": 172,
+    "date": "2014-05-24",
+    "duration": "00:31:00",
+    "lang": "EN",
+    "people": [
+      "chriscoyier",
+      "derSchepp",
+      "ddprrt",
+      "helloanselm",
+      "rodneyrehm"
+    ],
+    "href": "http://workingdraft.de/172/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2418/0/wd-172.mp3",
+    "title": "Interview mit Chris Coyier"
+  },
+  "173": {
+    "id": 173,
+    "date": "2014-05-30",
+    "duration": "00:38:53",
+    "people": [
+      "derSchepp",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/eomGdd83/revision-173",
+    "live": [
+      {
+        "title": "Revision 173",
+        "href": "http://livestre.am/4RCGO",
+        "duration": "01:34:45",
+        "date": "2014-05-26"
+      }
+    ],
+    "href": "http://workingdraft.de/173/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2424/0/wd-173.mp3",
+    "title": "Neues aus der Zukunft"
+  },
+  "174": {
+    "id": 174,
+    "date": "2014-06-15",
+    "duration": "01:10:40",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/gMmMU8R4/revision-174",
+    "live": [
+      {
+        "title": "Revision 174",
+        "href": "http://livestre.am/4RXTq",
+        "duration": "01:35:13",
+        "date": "2014-06-02"
+      }
+    ],
+    "href": "http://workingdraft.de/174/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2432/0/wd-174.mp3",
+    "title": "Front-End-Workflow"
+  },
+  "175": {
+    "id": 175,
+    "date": "2014-06-16",
+    "duration": "02:27:27",
+    "people": [
+      "derSchepp",
+      "ddprrt",
+      "janl"
+    ],
+    "trello": "https://trello.com/b/qOUUdh0Q/revision-175",
+    "live": [
+      {
+        "title": "Revision 175",
+        "href": "http://livestre.am/4SjoU",
+        "duration": "02:12:19",
+        "date": "2014-06-09"
+      }
+    ],
+    "href": "http://workingdraft.de/175/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2436/0/wd-175.mp3",
+    "title": "Die Open Source Reise des Jan Lehnardt"
+  },
+  "176": {
+    "id": 176,
+    "date": "2014-06-28",
+    "duration": "01:05:20",
+    "people": [
+      "drublic",
+      "helloanselm",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/RzjgIquk/revision-176",
+    "live": [
+      {
+        "title": "Revision 176",
+        "href": "http://livestre.am/4SDZj",
+        "duration": "01:48:01",
+        "date": "2014-06-16"
+      }
+    ],
+    "href": "http://workingdraft.de/176/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2446/0/wd-176.mp3",
+    "title": "will-change, Critical Path und z-index"
+  },
+  "177": {
+    "id": 177,
+    "date": "2014-07-08",
+    "duration": "00:39:04",
+    "people": [
+      "drublic",
+      "ddprrt",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/20ZbOMXy/revision-177",
+    "href": "http://workingdraft.de/177/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2452/0/wd-177.mp3",
+    "title": "CSS-Benamung, Glücksrad, Links"
+  },
+  "178": {
+    "id": 178,
+    "date": "2014-07-10",
+    "duration": "00:59:28",
+    "people": [
+      "ddprrt",
+      "helloanselm",
+      "sir_pepe",
+      "pangratz",
+      "LevelBossMike",
+      "jakoblehner",
+      "manuel_mitasch"
+    ],
+    "trello": "https://trello.com/b/ldNHJt3X/revision-178",
+    "href": "http://workingdraft.de/178/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2459/0/wd-178.mp3",
+    "title": "Ember.js in der Stahlstadt"
+  },
+  "179": {
+    "id": 179,
+    "date": "2014-07-26",
+    "duration": "00:50:32",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/0r1DGHLi/revision-179",
+    "live": [
+      {
+        "title": "Revision 179",
+        "href": "http://livestre.am/4THhi",
+        "duration": "01:33:14",
+        "date": "2014-07-07"
+      }
+    ],
+    "href": "http://workingdraft.de/179/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2477/0/wd-179.mp3",
+    "title": "Web Components"
+  },
+  "180": {
+    "id": 180,
+    "date": "2014-07-28",
+    "duration": "00:56:54",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/N4ucYIHF/revision-180",
+    "live": [
+      {
+        "title": "Revision 180",
+        "href": "http://livestre.am/4U2Sg",
+        "duration": "02:01:01",
+        "date": "2014-07-14"
+      }
+    ],
+    "href": "http://workingdraft.de/180/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2490/0/wd-180.mp3",
+    "title": "Media Queries und Web-Worker Analysen"
+  },
+  "181": {
+    "id": 181,
+    "date": "2014-07-31",
+    "duration": "01:05:04",
+    "people": [
+      "asciidisco",
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/Qi4USJ9S/revision-181",
+    "live": [
+      {
+        "title": "Revision 181",
+        "href": "http://livestre.am/4UrUO",
+        "duration": "01:49:49",
+        "date": "2014-07-22"
+      }
+    ],
+    "href": "http://workingdraft.de/181/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2483/0/wd-181.mp3",
+    "title": "Module, Events, Verlosung"
+  },
+  "182": {
+    "id": 182,
+    "date": "2014-08-13",
+    "duration": "01:18:25",
+    "people": [
+      "dawitux",
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/EDojmU2H/revision-182",
+    "live": [
+      {
+        "title": "Revision 182",
+        "href": "http://livestre.am/4ULWr",
+        "duration": "02:06:46",
+        "date": "2014-07-28"
+      }
+    ],
+    "href": "http://workingdraft.de/182/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2500/0/wd-182.mp3",
+    "title": "Agile Methoden, responsive Bilder und noch eine Verlosung"
+  },
+  "183": {
+    "id": 183,
+    "date": "2014-08-17",
+    "duration": "00:30:52",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/HdC66Ykr/revision-183",
+    "live": [
+      {
+        "title": "Revision 183",
+        "href": "http://livestre.am/4V5nK",
+        "duration": "01:13:16",
+        "date": "2014-08-04"
+      }
+    ],
+    "href": "http://workingdraft.de/183/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2505/0/wd-183.mp3",
+    "title": "Web Manifest Spec und Links"
+  },
+  "184": {
+    "id": 184,
+    "date": "2014-08-19",
+    "duration": "00:52:02",
+    "people": [
+      "ddprrt",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/NDHAVWX1/revision-184",
+    "href": "http://workingdraft.de/184/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2513/0/wd-184.mp3",
+    "title": "Web Components Type Extension und Rework.css"
+  },
+  "185": {
+    "id": 185,
+    "date": "2014-09-07",
+    "duration": "00:45:13",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/xKmumV7C/revision-185",
+    "live": [
+      {
+        "title": "Revision 185",
+        "href": "http://livestre.am/4W4rp",
+        "duration": "01:46:18",
+        "date": "2014-08-25"
+      }
+    ],
+    "href": "http://workingdraft.de/185/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2522/0/wd-185.mp3",
+    "title": "JS Debuggingstrategien & Network Information API"
+  },
+  "186": {
+    "id": 186,
+    "date": "2014-09-15",
+    "duration": "00:36:11",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic"
+    ],
+    "trello": "https://trello.com/b/9R1Jn6yx/revision-186",
+    "live": [
+      {
+        "title": "Revision 186",
+        "href": "http://livestre.am/4WpcN",
+        "duration": "01:22:19",
+        "date": "2014-09-01"
+      }
+    ],
+    "href": "http://workingdraft.de/186/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2530/0/wd-186.mp3",
+    "title": "RESTful API Design"
+  },
+  "187": {
+    "id": 187,
+    "date": "2014-09-16",
+    "duration": "02:18:59",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "fooforge"
+    ],
+    "trello": "https://trello.com/b/35pQhXCd/revision-187",
+    "live": [
+      {
+        "title": "Revision 187",
+        "href": "http://livestre.am/4WKqW",
+        "duration": "03:02:10",
+        "date": "2014-09-08"
+      }
+    ],
+    "href": "http://workingdraft.de/187/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2540/0/wd-187.mp3",
+    "title": "Arbeiten bei GitHub"
+  },
+  "188": {
+    "id": 188,
+    "date": "2014-09-22",
+    "duration": "00:27:41",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/lvG1k0O4/revision-188",
+    "live": [
+      {
+        "title": "Revision 188",
+        "href": "http://livestre.am/4X3NK",
+        "duration": "01:22:21",
+        "date": "2014-09-15"
+      }
+    ],
+    "href": "http://workingdraft.de/188/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2550/0/wd-188.mp3",
+    "title": "AMCSS und Links"
+  },
+  "189": {
+    "id": 189,
+    "date": "2014-10-04",
+    "duration": "01:27:55",
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/F1k9o0n8/revision-189",
+    "live": [
+      {
+        "title": "Revision 189",
+        "href": "http://livestre.am/4XpNd",
+        "duration": "02:17:23",
+        "date": "2014-09-22"
+      }
+    ],
+    "href": "http://workingdraft.de/189/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2555/0/wd-189.mp3",
+    "title": "iOS 8 und ES6"
+  },
+  "190": {
+    "id": 190,
+    "date": "2014-10-04",
+    "duration": "01:09:20",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "jkphl"
+    ],
+    "trello": "https://trello.com/b/duPOsDwB/revision-190",
+    "live": [
+      {
+        "title": "Revision 190",
+        "href": "http://livestre.am/4XJGk",
+        "duration": "00:42:58",
+        "date": "2014-09-29"
+      }
+    ],
+    "href": "http://workingdraft.de/190/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2561/0/wd-190.mp3",
+    "title": "border:none"
+  },
+  "191": {
+    "id": 191,
+    "date": "2014-10-26",
+    "duration": "00:38:59",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/J6bni0b4/revision-191",
+    "live": [
+      {
+        "title": "Revision 191",
+        "href": "http://livestre.am/4Y0Aw",
+        "duration": "00:40:45",
+        "date": "2014-10-06"
+      }
+    ],
+    "href": "http://workingdraft.de/191/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2572/0/wd-191.mp3",
+    "title": "Code Style Checker und Coding Conventions"
+  },
+  "192": {
+    "id": 192,
+    "date": "2014-10-26",
+    "duration": "00:40:50",
+    "people": [
+      "drublic",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/btzPQgzU/revision-192",
+    "live": false,
+    "href": "http://workingdraft.de/192/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2576/0/wd-192.mp3",
+    "title": "Komplizierte Job-Titel und Webfonts-Performance"
+  },
+  "193": {
+    "id": 193,
+    "date": "2014-11-08",
+    "duration": "00:27:24",
+    "people": [
+      "sir_pepe",
+      "the_Zieger"
+    ],
+    "trello": "https://trello.com/b/R49l5arX/revision-193",
+    "live": false,
+    "href": "http://workingdraft.de/193/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2585/0/wd-193.mp3",
+    "title": "Rückschau border:none"
+  },
+  "194": {
+    "id": 194,
+    "date": "2014-11-09",
+    "duration": "00:33:58",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/IZugzvc0/revision-194",
+    "live": [
+      {
+        "title": "Revision 194",
+        "href": "http://livestre.am/4YOgX",
+        "duration": "01:15:08",
+        "date": "2014-10-27"
+      }
+    ],
+    "href": "http://workingdraft.de/194/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2587/0/wd-194.mp3",
+    "title": "Kompression und Links"
+  },
+  "195": {
+    "id": 195,
+    "date": "2014-11-11",
+    "duration": "01:16:53",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "ttaubert"
+    ],
+    "trello": "https://trello.com/b/JBDXXdRo/revision-195",
+    "live": false,
+    "href": "http://workingdraft.de/195/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2599/0/wd-195.mp3",
+    "title": "Web Crypto API und Firefox Developer Edition"
+  },
+  "196": {
+    "id": 196,
+    "date": "2014-11-17",
+    "duration": "00:41:47",
+    "lang": "EN",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "tkadlec"
+    ],
+    "trello": "https://trello.com/b/FPhJKLeH/revision-196",
+    "live": false,
+    "href": "http://workingdraft.de/196/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2596/0/wd-196.mp3",
+    "title": "Interview mit Tim Kadlec"
+  },
+  "197": {
+    "id": 197,
+    "date": "2014-11-23",
+    "duration": "01:02:02",
+    "people": [
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/El3udVrJ/revision-197",
+    "live": [
+      {
+        "title": "Revision 197",
+        "href": "http://livestre.am/4ZIO3",
+        "duration": "01:06:39",
+        "date": "2014-11-17"
+      }
+    ],
+    "href": "http://workingdraft.de/197/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2606/0/wd-197.mp3",
+    "title": "Responsive Images, IE 12 und Links"
+  },
+  "198": {
+    "id": 198,
+    "date": "2014-12-07",
+    "duration": "01:22:23",
+    "people": [
+      "drublic",
+      "helloanselm",
+      "maddesigns",
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/uVDXjT3d/revision-198",
+    "live": [
+      {
+        "title": "Revision 198",
+        "href": "http://livestre.am/503bl",
+        "duration": "01:51:10",
+        "date": "2014-11-24"
+      }
+    ],
+    "href": "http://workingdraft.de/198/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2611/0/wd-198.mp3",
+    "title": "Workflow, Fokus, Shapes"
+  },
+  "199": {
+    "id": 199,
+    "date": "2014-12-13",
+    "duration": "00:54:32",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/vJ100OXl/revision-199",
+    "live": [
+      {
+        "title": "Revision 199",
+        "href": "http://livestre.am/50kVv",
+        "duration": "02:03:08",
+        "date": "2014-12-01"
+      }
+    ],
+    "href": "http://workingdraft.de/199/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2617/0/wd-199.mp3",
+    "title": "Simplifizierung und Code-Refactoring Methodik"
+  },
+  "200": {
+    "id": 200,
+    "date": "2014-12-14",
+    "duration": "01:21:04",
+    "lang": "EN",
+    "people": [
+      "adactio",
+      "ddprrt",
+      "derSchepp",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/hc9yyaCM/revision-200",
+    "live": [
+      {
+        "title": "Revision 200",
+        "href": "http://livestre.am/50CUw",
+        "duration": "02:42:42",
+        "date": "2014-12-08"
+      }
+    ],
+    "href": "http://workingdraft.de/200/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2626/0/wd-200.mp3",
+    "title": "The Indie Web"
+  },
+  "201": {
+    "id": 201,
+    "date": "2014-12-22",
+    "duration": "00:44:52",
+    "people": [
+      "ddprrt",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/fCXn7knn/revision-201",
+    "href": "http://workingdraft.de/201/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2633/0/wd-201.mp3",
+    "title": "Offline-Apps und Links"
+  },
+  "202": {
+    "id": 202,
+    "date": "2014-12-29",
+    "duration": "01:38:50",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "Mario Heiderich",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/VVyyQCIw/revision-202",
+    "live": [
+      {
+        "title": "Revision 202",
+        "href": "http://livestre.am/51aiQ",
+        "duration": "02:10:50",
+        "date": "2014-12-22"
+      }
+    ],
+    "href": "http://workingdraft.de/202/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2640/0/wd-202.mp3",
+    "title": "Sicherheitslücken – DOM Clobbering, XSS via CSS, ES6 Fallen"
+  },
+  "203": {
+    "id": 203,
+    "date": "2015-01-10",
+    "duration": "01:19:09",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic",
+      "PascalPrecht",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/jwUajcet/revision-203",
+    "href": "http://workingdraft.de/203/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2648/0/wd-203.mp3",
+    "title": "AngularJS x.x"
+  },
+  "204": {
+    "id": 204,
+    "date": "2015-01-22",
+    "duration": "00:58:47",
+    "people": [
+      "ddprrt",
+      "rodneyrehm",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/4am7fLqS/revision-204",
+    "href": "http://workingdraft.de/204/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2656/0/wd-204.mp3",
+    "title": "Fokus, Build-Tools, Links"
+  },
+  "205": {
+    "id": 205,
+    "date": "2015-01-31",
+    "duration": "00:57:16",
+    "people": [
+      "ddprrt",
+      "helloanselm",
+      "distilledhype"
+    ],
+    "trello": "https://trello.com/b/MMOMgPLh/revision-205",
+    "href": "http://workingdraft.de/205/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2666/0/wd-205.mp3",
+    "title": "Perceived Performance, Ampersand.js"
+  },
+  "206": {
+    "id": 206,
+    "date": "2015-02-03",
+    "duration": "01:24:03",
+    "people": [
+      "codepo8",
+      "rodneyrehm",
+      "derSchepp",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/u5GwJ1L4/revision-206",
+    "href": "http://workingdraft.de/206/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2674/0/wd-206.mp3",
+    "title": "ES6 Template Strings, Jobwechsel, Spartan"
+  },
+  "207": {
+    "id": 207,
+    "date": "2015-02-09",
+    "duration": "01:03:06",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "drublic",
+      "derSchepp",
+      "mkuehnel"
+    ],
+    "trello": "https://trello.com/b/rR0qAOp7/revision-207",
+    "href": "http://workingdraft.de/207/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2679/0/wd-207.mp3",
+    "title": "6to5, Yeoman, Links",
+    "live": [
+      {
+        "title": "Revision 207",
+        "href": "http://livestre.am/52Jt1",
+        "duration": "01:55:47",
+        "date": "2015-02-02"
+      }
+    ]
+  },
+  "208": {
+    "id": 208,
+    "date": "2015-02-22",
+    "duration": "00:46:11",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "drublic",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/dXDhVqJd/revision-208",
+    "href": "http://workingdraft.de/208/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2685/0/wd-208.mp3",
+    "title": "JavaScript Dialekte"
+  },
+  "209": {
+    "id": 209,
+    "date": "2015-02-24",
+    "duration": "01:00:41",
+    "people": [
+      "ddprrt",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/lN8Cy2Le/revision-209",
+    "href": "http://workingdraft.de/209/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2687/0/wd-209.mp3",
+    "title": "Geschwindigkeitsrausch"
+  },
+  "210": {
+    "id": 210,
+    "date": "2015-03-05",
+    "duration": "00:55:32",
+    "people": [
+      "sir_pepe",
+      "helloanselm",
+      "rodneyrehm",
+      "drublic"
+    ],
+    "trello": "https://trello.com/b/vf0o070X/revision-210",
+    "href": "http://workingdraft.de/210/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2696/0/wd-210.mp3",
+    "title": "Webfonts und JavaScript-Module"
+  },
+  "211": {
+    "id": 211,
+    "date": "2015-03-08",
+    "duration": "01:17:57",
+    "people": [
+      "derSchepp",
+      "helloanselm",
+      "drublic",
+      "ddprrt",
+      "jacobrossi"
+    ],
+    "trello": "https://trello.com/b/1vUszgH4/revision-211",
+    "href": "http://workingdraft.de/211/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2701/0/wd-211.mp3",
+    "title": "Project Spartan with Jacob Rossi",
+    "live": [
+      {
+        "title": "Revision 211",
+        "href": "http://livestre.am/53UmZ",
+        "duration": "01:30:43",
+        "date": "2015-03-02"
+      }
+    ]
+  },
+  "212": {
+    "id": 212,
+    "date": "2015-03-21",
+    "duration": "00:51:37",
+    "people": [
+      "sir_pepe",
+      "drublic",
+      "ddprrt"
+    ],
+    "trello": "https://trello.com/b/M112TMDp/revision-212",
+    "href": "http://workingdraft.de/212/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2707/0/wd-212.mp3",
+    "title": "HTML5 (Retro | Per)spektive"
+  },
+  "213": {
+    "id": 213,
+    "date": "2015-03-30",
+    "duration": "00:50:35",
+    "people": [
+      "derSchepp",
+      "helloanselm",
+      "ddprrt",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/d1uk0kzm/revision-213",
+    "href": "http://workingdraft.de/213/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2709/0/wd-213.mp3",
+    "title": "React is a Good Idea!"
+  },
+  "214": {
+    "id": 214,
+    "date": "2015-04-08",
+    "duration": "00:57:49",
+    "people": [
+      "drublic",
+      "helloanselm",
+      "ddprrt",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/1b4IxX6T/revision-214",
+    "href": "http://workingdraft.de/214/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2728/0/wd-214.mp3",
+    "title": "Fetch, Zentralisierung, Links"
+  },
+  "215": {
+    "id": 215,
+    "date": "2015-04-25",
+    "duration": "00:44:14",
+    "people": [
+      "drublic",
+      "derSchepp",
+      "ddprrt",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/YuuRwflO/revision-215",
+    "href": "http://workingdraft.de/215/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2734/0/wd-215.mp3",
+    "title": "Einheitsbrei"
+  },
+  "216": {
+    "id": 216,
+    "date": "2015-05-01",
+    "duration": "00:46:58",
+    "people": [
+      "derSchepp",
+      "ddprrt",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/2N4vuUK5/revision-216",
+    "href": "http://workingdraft.de/216/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2741/0/wd-216.mp3",
+    "title": "Working Draft considered harmful"
+  },
+  "217": {
+    "id": 217,
+    "date": "2015-05-04",
+    "duration": "00:42:33",
+    "people": [
+      "derSchepp",
+      "helloanselm",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/HqUcM6l8/revision-217",
+    "href": "http://workingdraft.de/217/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2743/0/wd-217.mp3",
+    "title": "Offline First und Links"
+  },
+  "218": {
+    "id": 218,
+    "date": "2015-05-23",
+    "duration": "00:43:05",
+    "people": [
+      "rodneyrehm",
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "trello": "https://trello.com/b/m1mCaC6j/revision-218",
+    "href": "http://workingdraft.de/218/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2762/0/wd-218.mp3",
+    "title": "ECMAScript 6"
+  },
+  "219": {
+    "id": 219,
+    "date": "2015-05-24",
+    "duration": "00:16:15",
+    "people": [
+      "rodneyrehm",
+      "ddprrt",
+      "drublic",
+      "helloanselm",
+      "SaraSoueidan"
+    ],
+    "trello": "https://trello.com/b/dEg8riBE/revision-219",
+    "href": "http://workingdraft.de/219/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2765/0/wd-219.mp3",
+    "title": "Interview mit Sara Soueidan"
+  },
+  "220": {
+    "id": 220,
+    "date": "2015-05-25",
+    "duration": "01:04:54",
+    "people": [
+      "helloanselm",
+      "derSchepp"
+    ],
+    "trello": "https://trello.com/b/zrUk3pRK/revision-220",
+    "href": "http://workingdraft.de/220/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2757/0/wd-220.mp3",
+    "title": "Tools are [not] the Problem"
+  },
+  "221": {
+    "id": 221,
+    "date": "2015-05-25",
+    "duration": "01:04:54",
+    "people": [
+      "drublic",
+      "ddprrt",
+      "derSchepp"
+    ],
+    "trello": "https://trello.com/b/Nl2n4CrM/revision-221",
+    "href": "http://workingdraft.de/221/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2787/0/wd-221.mp3",
+    "title": "Pattern libraries, Styleguides und PatternLab"
+  },
+  "222": {
+    "id": 222,
+    "date": "2015-06-19",
+    "duration": "00:40:44",
+    "people": [
+      "drublic",
+      "sir_pepe",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/AmD4bocA/revision-222",
+    "href": "http://workingdraft.de/222/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2784/0/wd-222.mp3",
+    "title": "Is React really fast und Dependency Updates"
+  },
+  "223": {
+    "id": 223,
+    "date": "2015-06-27",
+    "duration": "01:12:11",
+    "people": [
+      "derSchepp",
+      "sir_pepe",
+      "rodneyrehm",
+      "ddprrt"
+    ],
+    "trello": "https://trello.com/b/5QRMIgCp/revision-223",
+    "href": "http://workingdraft.de/223/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2792/0/wd-223.mp3",
+    "title": "Safari 9, Web Components und A11Y tools"
+  },
+  "224": {
+    "id": 224,
+    "date": "2015-06-19",
+    "duration": "01:19:56",
+    "people": [
+      "derSchepp",
+      "kringal",
+      "helloanselm",
+      "ddprrt"
+    ],
+    "trello": "https://trello.com/b/Caf95hEu/revision-224",
+    "href": "http://workingdraft.de/224/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2798/0/wd-224.mp3",
+    "title": "Design meets Code"
+  },
+  "225": {
+    "id": 225,
+    "date": "2015-07-21",
+    "duration": "01:14:00",
+    "people": [
+      "rodneyrehm",
+      "helloanselm",
+      "sir_pepe",
+      "ddprrt"
+    ],
+    "trello": "https://trello.com/b/uJnD5kZx/revision-225",
+    "href": "http://workingdraft.de/225/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2806/0/wd-225.mp3",
+    "title": "Web Components und Web Assembly"
+  },
+  "226": {
+    "id": 226,
+    "date": "2015-07-22",
+    "duration": "43:46",
+    "people": [
+      "drublic",
+      "derSchepp",
+      "rodneyrehm"
+    ],
+    "trello": "https://trello.com/b/1KDfUZyV/revision-226",
+    "href": "http://workingdraft.de/226/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2813/0/wd-226.mp3",
+    "title": "Progressive Enhancement"
+  },
+  "227": {
+    "id": 227,
+    "date": "2015-07-30",
+    "duration": "01:01:27",
+    "people": [
+      "drublic",
+      "sir_pepe",
+      "helloanselm"
+    ],
+    "trello": "https://trello.com/b/Sgn5KlFg/revision-227",
+    "href": "http://workingdraft.de/227/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2818/0/wd-227.mp3",
+    "title": "Ask Anselm Anything und Underscore"
+  },
+  "228": {
+    "id": 228,
+    "date": "2015-08-06",
+    "duration": "33:58",
+    "people": [
+      "helloanselm",
+      "rodneyrehm",
+      "dawitux",
+      "saemple"
+    ],
+    "trello": "https://trello.com/b/vVlWujUl/revision-228",
+    "href": "http://workingdraft.de/228/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2820/0/wd-228.mp3",
+    "title": "Wie Sipgate arbeitet"
+  },
+  "229": {
+    "id": 229,
+    "date": "2015-08-11",
+    "duration": "39:48",
+    "people": [
+      "derSchepp",
+      "sir_pepe",
+      "ddprrt"
+    ],
+    "trello": "https://trello.com/b/uZ6alz9y/revision-229",
+    "href": "http://workingdraft.de/229/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2830/0/wd-229.mp3",
+    "title": "Stop pushing the web forward"
+  },
+  "230": {
+    "id": 230,
+    "date": "2015-08-31",
+    "duration": "01:11:48",
+    "people": [
+      "derSchepp",
+      "sir_pepe",
+      "ddprrt",
+      "helloanselm",
+      "drublic"
+    ],
+    "trello": "https://trello.com/b/Ypo0UoU9/revision-230",
+    "href": "http://workingdraft.de/230/",
+    "audio": "http://workingdraft.de/podpress_trac/web/2840/0/wd-230.mp3",
+    "title": "CSS input modality und die Unzufriedenheit mit der Gesamtsituation"
+  },
+  "231": {
+    "id": 231,
+    "date": "2015-09-01",
+    "duration": "01:09:40",
+    "people": [
+      "derSchepp",
+      "sir_pepe",
+      "ddprrt",
+      "drublic",
+      "derMambo",
+      "yauh"
+    ],
+    "href": "https://workingdraft.de/231/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2852/0/wd-231.mp3",
+    "title": "Meteor, CSS in JS, dreiste Eigenwerbung"
+  },
+  "232": {
+    "id": 232,
+    "date": "2015-09-13",
+    "duration": "00:24:02",
+    "people": [
+      "sir_pepe",
+      "drublic"
+    ],
+    "href": "https://workingdraft.de/232/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2845/0/wd-232.mp3",
+    "title": "Progressive Apps"
+  },
+  "233": {
+    "id": 233,
+    "date": "2015-09-01",
+    "duration": "01:09:40",
+    "people": [
+      "ddprrt",
+      "helloanselm"
+    ],
+    "href": "https://workingdraft.de/233/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2865/0/wd-233.mp3",
+    "title": "CSS Layout Techniken"
+  },
+  "234": {
+    "id": 234,
+    "date": "2015-09-20",
+    "people": [
+      "ddprrt",
+      "helloanselm"
+    ],
+    "duration": "35:32",
+    "href": "https://workingdraft.de/234/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2873/0/wd-234.mp3",
+    "title": "Probleme mit Feature-Detection und Vererbung in CSS"
+  },
+  "235": {
+    "id": 235,
+    "date": "2015-10-3",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "justphilmusic",
+      "sir_pepe"
+    ],
+    "duration": "1:01:51",
+    "href": "https://workingdraft.de/235/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2883/0/wd-235.mp3",
+    "title": "Houdini, Go Lang und Angular 2"
+  },
+  "236": {
+    "id": 236,
+    "date": "2015-10-6",
+    "duration": "45:59",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "drublic",
+      "helloanselm"
+    ],
+    "href": "https://workingdraft.de/236/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2890/0/wd-236.mp3",
+    "title": "CSS Round Display Spec und Open Source Projekte"
+  },
+  "237": {
+    "id": 237,
+    "date": "2015-10-17",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "ddprrt"
+    ],
+    "duration": "53:25",
+    "href": "https://workingdraft.de/237/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2899/0/wd-237.mp3",
+    "title": "Remote Work und Informationsnachschub"
+  },
+  "238": {
+    "id": 238,
+    "date": "2015-10-18",
+    "people": [
+      "derSchepp",
+      "ddprrt",
+      "usefulthink"
+    ],
+    "duration": "1:01:33",
+    "href": "https://workingdraft.de/238/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2902/0/wd-238.mp3",
+    "title": "Creative Coding, Sass Eyeglass und AMP"
+  },
+  "239": {
+    "id": 239,
+    "date": "2015-10-27",
+    "people": [
+      "derSchepp",
+      "helloanselm",
+      "drublic"
+    ],
+    "duration": "48:41",
+    "href": "https://workingdraft.de/239/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2908/0/wd-239.mp3",
+    "title": "Webfonts Best Practices und FLIF"
+  },
+  "240": {
+    "id": 240,
+    "date": "2015-11-7",
+    "people": [
+      "helloanselm",
+      "drublic",
+      "ddprrt"
+    ],
+    "duration": "29:15",
+    "href": "https://workingdraft.de/240/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2919/0/wd-240.mp3",
+    "title": "Content Blocker"
+  },
+  "241": {
+    "id": 241,
+    "date": "2015-11-8",
+    "people": [
+      "kainiklas",
+      "derSchepp",
+      "helloanselm",
+      "drublic"
+    ],
+    "duration": "47:43",
+    "href": "https://workingdraft.de/241/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2926/0/wd-241.mp3",
+    "title": "WebGL"
+  },
+  "242": {
+    "id": 242,
+    "date": "2015-11-30",
+    "people": [
+      "drublic",
+      "rodneyrehm",
+      "helloanselm"
+    ],
+    "duration": "1:00:53",
+    "href": "https://workingdraft.de/242/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2937/0/wd-242.mp3",
+    "title": "Nützliche Services und a11y im täglichen Job"
+  },
+  "243": {
+    "id": 243,
+    "date": "2015-12-2",
+    "people": [
+      "sir_pepe",
+      "derSchepp",
+      "helloanselm",
+      "drublic"
+    ],
+    "duration": "1:01:44",
+    "href": "https://workingdraft.de/243/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2933/0/wd-243.mp3",
+    "title": "Unlearning und Diversity"
+  },
+  "244": {
+    "id": 244,
+    "date": "2015-12-4",
+    "people": [
+      "rodneyrehm",
+      "drublic",
+      "helloanselm",
+      "marcozehe"
+    ],
+    "duration": "1:25:31",
+    "href": "https://workingdraft.de/244/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2949/0/wd-244.mp3",
+    "title": "Accessibility Deep Dive und ally.js"
+  },
+  "245": {
+    "id": 245,
+    "date": "2015-12-19",
+    "people": [
+      "sir_pepe",
+      "ddprrt",
+      "derSchepp"
+    ],
+    "duration": "40:58",
+    "href": "https://workingdraft.de/245/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2963/0/wd-245.mp3",
+    "title": "Web Components und Links"
+  },
+  "246": {
+    "id": 246,
+    "date": "2015-12-25",
+    "people": [
+      "rodneyrehm",
+      "derSchepp"
+    ],
+    "duration": "1:06:52",
+    "href": "https://workingdraft.de/246/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2970/0/wd-246.mp3",
+    "title": "Der Blick in die Glaskugel"
+  },
+  "247": {
+    "id": 247,
+    "date": "2015-12-31",
+    "people": [
+      "drublic",
+      "sir_pepe",
+      "drublic",
+      "distilledhype"
+    ],
+    "duration": "1:20:13",
+    "href": "https://workingdraft.de/247/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2978/0/wd-247.mp3",
+    "title": "Reaktive funktionale Programmierung"
+  },
+  "248": {
+    "id": 248,
+    "date": "2016-01-10",
+    "people": [
+      "derSchepp",
+      "ddprrt",
+      "helloanselm",
+      "rodneyrehm",
+      "rauschma"
+    ],
+    "duration": "1:11:43",
+    "href": "https://workingdraft.de/248/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2987/0/wd-248.mp3",
+    "title": "ECMAScript 6 und 7"
+  },
+  "249": {
+    "id": 249,
+    "date": "2016-01-17",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "helloanselm",
+      "drublic"
+    ],
+    "duration": "1:08:10",
+    "href": "https://workingdraft.de/249/",
+    "audio": "https://workingdraft.de/podpress_trac/web/2996/0/wd-249.mp3",
+    "title": "Sauberes HTML, Gratis CDNs"
+  },
+  "250": {
+    "id": 250,
+    "date": "2016-01-26",
+    "people": [
+      "brucel",
+      "drublic",
+      "ddprrt",
+      "helloanselm",
+      "derSchepp"
+    ],
+    "duration": "54:59",
+    "href": "https://workingdraft.de/250/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3002/0/wd-250.mp3",
+    "title": "Achtung Baby!"
+  },
+  "251": {
+    "id": 251,
+    "date": "2016-01-30",
+    "people": [
+      "drublic",
+      "cramforce",
+      "ddprrt",
+      "helloanselm",
+      "derSchepp"
+    ],
+    "duration": "59:01",
+    "href": "https://workingdraft.de/251/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3011/0/wd-251.mp3",
+    "title": "Googles AMP und die Zukunft der Parallelität"
+  },
+  "252": {
+    "id": 252,
+    "date": "2016-02-7",
+    "people": [
+      "drublic",
+      "sir_pepe",
+      "rodneyrehm"
+    ],
+    "duration": "46:14",
+    "href": "https://workingdraft.de/252/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3017/0/wd-252.mp3",
+    "title": "Yo Dawg I heard you like JavaScript so I put a transpiler into your MVC so you can type check while you tree shake"
+  },
+  "253": {
+    "id": 253,
+    "date": "2016-02-28",
+    "people": [
+      "helloanselm",
+      "sir_pepe",
+      "ddprrt"
+    ],
+    "duration": "58:46",
+    "href": "https://workingdraft.de/253/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3024/0/wd-253.mp3",
+    "title": "CMS, CMS, CMS!"
+  },
+  "254": {
+    "id": 254,
+    "date": "2016-03-4",
+    "people": [
+      "helloanselm",
+      "derSchepp",
+      "drublic",
+      "helloanselm"
+    ],
+    "duration": "28:17",
+    "href": "https://workingdraft.de/254/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3033/0/wd-254.mp3",
+    "title": "Progressively loaded CSS, Grunt 1.0"
+  },
+  "255": {
+    "id": 255,
+    "date": "2016-03-13",
+    "people": [
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "45:22",
+    "href": "https://workingdraft.de/255/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3037/0/wd-255.mp3",
+    "title": "Hack the Planet!"
+  },
+  "256": {
+    "id": 256,
+    "date": "2016-03-21",
+    "people": [
+      "derSchepp",
+      "ddprrt",
+      "drublic",
+      "helloanselm"
+    ],
+    "duration": "54:55",
+    "href": "https://workingdraft.de/256/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3049/0/wd-256.mp3",
+    "title": "Arbeiten mit einem CMS – Berichte aus der Praxis"
+  },
+  "257": {
+    "id": 257,
+    "date": "2016-03-30",
+    "people": [
+      "RouvenWessling",
+      "ThomasScholte"
+    ],
+    "duration": "53:17",
+    "href": "https://workingdraft.de/257/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3057/0/wd-257.mp3",
+    "title": "Contentful – Das API-first CMS"
+  },
+  "258": {
+    "id": 258,
+    "date": "2016-04-17",
+    "people": [
+      "derSchepp",
+      "sir_pepe",
+      "helloanselm"
+    ],
+    "duration": "1:30:44",
+    "href": "https://workingdraft.de/258/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3070/0/wd-258.mp3",
+    "title": "Das npm Debakel und warum wir so lahme Seiten bauen"
+  },
+  "259": {
+    "id": 259,
+    "date": "2016-04-18",
+    "people": [
+      "helloanselm",
+      "mxstbr"
+    ],
+    "duration": "42:23",
+    "href": "https://workingdraft.de/259/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3074/0/wd-259.mp3",
+    "title": "React Entwicklung und Frontend Einstieg"
+  },
+  "260": {
+    "id": 260,
+    "date": "2016-05-1",
+    "people": [
+      "rodneyrehm",
+      "drublic",
+      "ddprrt"
+    ],
+    "duration": "47:45",
+    "href": "https://workingdraft.de/260/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3087/0/wd-260.mp3",
+    "title": "Spezifikations-Neuheiten"
+  },
+  "261": {
+    "id": 261,
+    "date": "2016-05-16",
+    "people": [
+      "helloanselm",
+      "derSchepp",
+      "ddprrt"
+    ],
+    "duration": "57:04",
+    "href": "https://workingdraft.de/261/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3099/0/wd-261.mp3",
+    "title": "SVG Icons, Element/Container Queries"
+  },
+  "262": {
+    "id": 262,
+    "date": "2016-05-16",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "sir_pepe",
+      "helloanselm"
+    ],
+    "duration": "54:21",
+    "href": "https://workingdraft.de/262/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3096/0/wd-262.mp3",
+    "title": "News, Glücksrad, Links"
+  },
+  "263": {
+    "id": 263,
+    "date": "2016-05-29",
+    "people": [
+      "rodneyrehm",
+      "ppk",
+      "adactio",
+      "codepo8",
+      "derSchepp"
+    ],
+    "duration": "1:10:29",
+    "href": "https://workingdraft.de/263/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3108/0/wd-263.mp3",
+    "title": "Im Gespräch mit PPK, Chris Heilmann und Jeremy Keith"
+  },
+  "264": {
+    "id": 264,
+    "date": "2016-06-13",
+    "people": [
+      "ddprrt",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "duration": "56:11",
+    "href": "https://workingdraft.de/264/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3115/0/wd-264.mp3",
+    "title": "Make Flash great again"
+  },
+  "265": {
+    "id": 265,
+    "date": "2016-06-20",
+    "people": [
+      "derPepo",
+      "sir_pepe",
+      "drublic",
+      "ddprrt",
+      "derSchepp"
+    ],
+    "duration": "45:53",
+    "href": "https://workingdraft.de/265/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3126/0/wd-265.mp3",
+    "title": "Weiterbildung im Frontend"
+  },
+  "266": {
+    "id": 266,
+    "date": "2016-06-29",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "danielmies"
+    ],
+    "duration": "1:00:05",
+    "href": "https://workingdraft.de/266/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3125/0/wd-266.mp3",
+    "title": "TypeScript"
+  },
+  "267": {
+    "id": 267,
+    "date": "2016-07-10",
+    "people": [
+      "helloanselm",
+      "ddprrt"
+    ],
+    "duration": "39:39",
+    "href": "https://workingdraft.de/267/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3139/0/wd-267.mp3",
+    "title": "News und Glücksrad"
+  },
+  "268": {
+    "id": 268,
+    "date": "2016-07-31",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "ddprrt"
+    ],
+    "duration": "57:37",
+    "href": "https://workingdraft.de/268/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3141/0/wd-268.mp3",
+    "title": "Konferenz- und Meetup-Organisation"
+  },
+  "270": {
+    "id": 270,
+    "date": "2016-08-5",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "derSchepp"
+    ],
+    "duration": "31:12",
+    "href": "https://workingdraft.de/270/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3149/0/wd-270.mp3",
+    "title": "Debugging und Links"
+  },
+  "271": {
+    "id": 271,
+    "date": "2016-08-5",
+    "people": [
+      "drublic",
+      "derSchepp",
+      "ddprrt"
+    ],
+    "duration": "39:11",
+    "href": "https://workingdraft.de/271/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3153/0/wd-271.mp3",
+    "title": "HTTP/2 Server Push und Link Rot"
+  },
+  "272": {
+    "id": 272,
+    "date": "2016-08-20",
+    "people": [
+      "rodneyrehm",
+      "helloanselm",
+      "ddprrt",
+      "derSchepp"
+    ],
+    "duration": "46:43",
+    "href": "https://workingdraft.de/272/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3166/0/wd-272.mp3",
+    "title": "Statische Seitengeneratoren, Metalsmith und CSS Funktionssyntax"
+  },
+  "273": {
+    "id": 273,
+    "date": "2016-08-26",
+    "people": [
+      "html5test",
+      "derSchepp",
+      "helloanselm"
+    ],
+    "duration": "1:06:06",
+    "href": "https://workingdraft.de/273/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3173/0/wd-273.mp3",
+    "title": "Open Device Labs, HTML5Test.com and Weird Browsers"
+  },
+  "274": {
+    "id": 274,
+    "date": "2016-08-29",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "ddprrt",
+      "inoverse"
+    ],
+    "duration": "36:58",
+    "href": "https://workingdraft.de/274/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3168/0/wd-274.mp3",
+    "title": "Ionic Framework"
+  },
+  "275": {
+    "id": 275,
+    "date": "2016-09-11",
+    "people": [
+      "Flocke",
+      "ChristophReinartz",
+      "derSchepp",
+      "sir_pepe",
+      "drublic"
+    ],
+    "duration": "1:14:22",
+    "href": "https://workingdraft.de/275/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3182/0/wd-275.mp3",
+    "title": "Project Ironman"
+  },
+  "276": {
+    "id": 276,
+    "date": "2016-09-15",
+    "people": [
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "1:08:38",
+    "href": "https://workingdraft.de/276/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3185/0/wd-276.mp3",
+    "title": "Große Module, kleine Module? Viel Code, wenig Code?"
+  },
+  "277": {
+    "id": 277,
+    "date": "2016-09-19",
+    "people": [
+      "rodneyrehm",
+      "derSchepp",
+      "ddprrt"
+    ],
+    "duration": "36:41",
+    "href": "https://workingdraft.de/277/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3180/0/wd-277.mp3",
+    "title": "Accessibility Object Model und Custom Elements"
+  },
+  "278": {
+    "id": 278,
+    "date": "2016-10-8",
+    "people": [
+      "derSchepp",
+      "marcthiele"
+    ],
+    "duration": "1:29:42",
+    "href": "https://workingdraft.de/278/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3197/0/wd-278.mp3",
+    "title": "Beyond beyond tellerrand"
+  },
+  "279": {
+    "id": 279,
+    "date": "2016-10-21",
+    "people": [
+      "drublic",
+      "helloanselm"
+    ],
+    "duration": "45:34",
+    "href": "https://workingdraft.de/279/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3203/0/wd-279.mp3",
+    "title": "Abstand und Urlaub"
+  },
+  "280": {
+    "id": 280,
+    "date": "2016-10-28",
+    "people": [
+      "drublic",
+      "ddprrt",
+      "derSchepp"
+    ],
+    "duration": "48:11",
+    "href": "https://workingdraft.de/280/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3213/0/wd-280.mp3",
+    "title": "Yarn und Styled Components"
+  },
+  "281": {
+    "id": 281,
+    "date": "2016-11-30",
+    "people": [
+      "ddprrt",
+      "mxstbr",
+      "nikgraf"
+    ],
+    "duration": "1:01:18",
+    "href": "https://workingdraft.de/281/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3223/0/wd-281.mp3",
+    "title": "State of React"
+  },
+  "282": {
+    "id": 282,
+    "date": "2016-12-5",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "helloanselm",
+      "tobiasblock"
+    ],
+    "duration": "1:09:53",
+    "href": "https://workingdraft.de/282/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3220/0/wd-282.mp3",
+    "title": "AMP aus Anwenderperspektive"
+  },
+  "283": {
+    "id": 283,
+    "date": "2016-12-12",
+    "people": [
+      "drublic",
+      "christophrumpel",
+      "codebryo",
+      "ddprrt"
+    ],
+    "duration": "1:12:40",
+    "href": "https://workingdraft.de/283/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3230/0/wd-283.mp3",
+    "title": "vue.js und Chatbots"
+  },
+  "284": {
+    "id": 284,
+    "date": "2016-12-25",
+    "people": [
+      "derSchepp",
+      "rodneyrehm",
+      "helloanselm"
+    ],
+    "duration": "1:27:43",
+    "href": "https://workingdraft.de/284/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3241/0/wd-284.mp3",
+    "title": "Rückblick und Ausblick"
+  },
+  "285": {
+    "id": 285,
+    "date": "2016-12-29",
+    "people": [
+      "ddprrt",
+      "smashingmag",
+      "drublic",
+      "helloanselm",
+      "derSchepp"
+    ],
+    "duration": "1:26:02",
+    "href": "https://workingdraft.de/285/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3245/0/wd-285.mp3",
+    "title": "Plausch mit Vitaly Friedman"
+  },
+  "286": {
+    "id": 286,
+    "date": "2017-01-23",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe",
+      "kabaehr"
+    ],
+    "duration": "57:37",
+    "href": "https://workingdraft.de/286/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3254/0/wd-286.mp3",
+    "title": "Aurelia"
+  },
+  "287": {
+    "id": 287,
+    "date": "2017-01-29",
+    "people": [
+      "jkphl",
+      "helloanselm",
+      "drublic"
+    ],
+    "duration": "1:04:27",
+    "href": "https://workingdraft.de/287/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3256/0/wd-287.mp3",
+    "title": "Microinformationen und CoderDojo"
+  },
+  "288": {
+    "id": 288,
+    "date": "2017-02-15",
+    "people": [
+      "rogerdudler",
+      "derSchepp",
+      "ddprrt",
+      "drublic"
+    ],
+    "duration": "51:39",
+    "href": "https://workingdraft.de/288/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3276/0/wd-288.mp3",
+    "title": "Frontify, Styleguides"
+  },
+  "289": {
+    "id": 289,
+    "date": "2017-02-18",
+    "people": [
+      "wSokra",
+      "Jhnnns",
+      "drublic",
+      "helloanselm"
+    ],
+    "duration": "1:05:02",
+    "href": "https://workingdraft.de/289/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3284/0/wd-289.mp3",
+    "title": "Tiefe Einblicke in die Webpack Entwicklung"
+  },
+  "290": {
+    "id": 290,
+    "date": "2017-02-20",
+    "people": [
+      "drublic",
+      "derSchepp",
+      "ddprrt"
+    ],
+    "duration": "48:31",
+    "href": "https://workingdraft.de/290/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3293/0/wd-290.mp3",
+    "title": "Parse & Compile, Safari 10.1, WebGPU"
+  },
+  "291": {
+    "id": 291,
+    "date": "2017-02-28",
+    "people": [
+      "sir_pepe",
+      "helloanselm"
+    ],
+    "duration": "44:31",
+    "href": "https://workingdraft.de/291/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3313/0/wd-291.mp3",
+    "title": "h-Element und ES2017"
+  },
+  "292": {
+    "id": 292,
+    "date": "2017-03-6",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "_schickling"
+    ],
+    "duration": "1:06:05",
+    "href": "https://workingdraft.de/292/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3319/0/wd-292.mp3",
+    "title": "Bessere APIs mit GraphQL"
+  },
+  "293": {
+    "id": 293,
+    "date": "2017-03-12",
+    "people": [
+      "rodneyrehm",
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "1:01:41",
+    "href": "https://workingdraft.de/293/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3332/0/wd-293.mp3",
+    "title": "Web Assembly, Bloat und Web Components"
+  },
+  "294": {
+    "id": 294,
+    "date": "2017-03-22",
+    "people": [
+      "maddesigns",
+      "derSchepp",
+      "helloanselm"
+    ],
+    "duration": "46:08",
+    "href": "https://workingdraft.de/294/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3338/0/wd-294.mp3",
+    "title": "CSS Grids"
+  },
+  "295": {
+    "id": 295,
+    "date": "2017-04-2",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "drublic"
+    ],
+    "duration": "35:28",
+    "href": "https://workingdraft.de/295/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3344/0/wd-295.mp3",
+    "title": "Next, Git, Guetzli"
+  },
+  "296": {
+    "id": 296,
+    "date": "2017-04-3",
+    "people": [
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "39:33",
+    "href": "https://workingdraft.de/296/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3350/0/wd-296.mp3",
+    "title": "Das Accessibility Object Model"
+  },
+  "297": {
+    "id": 297,
+    "date": "2017-04-18",
+    "people": [
+      "bastiankrol",
+      "derSchepp",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "duration": "53:46",
+    "href": "https://workingdraft.de/297/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3357/0/wd-297.mp3",
+    "title": "Elm"
+  },
+  "298": {
+    "id": 298,
+    "date": "2017-04-24",
+    "people": [
+      "drublic",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "duration": "36:37",
+    "href": "https://workingdraft.de/298/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3367/0/wd-298.mp3",
+    "title": "Module, Bundling und Optimierung"
+  },
+  "299": {
+    "id": 299,
+    "date": "2017-05-3",
+    "people": [
+      "stefanjudis",
+      "drublic",
+      "rodneyrehm",
+      "helloanselm",
+      "sir_pepe"
+    ],
+    "duration": "46:21",
+    "href": "https://workingdraft.de/299/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3375/0/wd-299.mp3",
+    "title": "Electron"
+  },
+  "300": {
+    "id": 300,
+    "date": "2017-05-6",
+    "people": [
+      "helloanselm",
+      "ddprrt",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "duration": "50:38",
+    "href": "https://workingdraft.de/300/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3381/0/wd-300.mp3",
+    "title": "Glücksrad!"
+  },
+  "301": {
+    "id": 301,
+    "date": "2017-05-22",
+    "people": [
+      "j9t",
+      "derSchepp",
+      "helloanselm"
+    ],
+    "duration": "38:06",
+    "href": "https://workingdraft.de/301/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3390/0/wd-301.mp3",
+    "title": "Optimierung und Wartbarkeit von CSS"
+  },
+  "302": {
+    "id": 302,
+    "date": "2017-06-19",
+    "people": [
+      "rodneyrehm",
+      "sir_pepe"
+    ],
+    "duration": "1:11:05",
+    "href": "https://workingdraft.de/302/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3400/0/wd-302.mp3",
+    "title": "Zukunft und Vergangenheit von JS-Tools und Libraries"
+  },
+  "303": {
+    "id": 303,
+    "date": "2017-06-21",
+    "people": [
+      "ddprrt",
+      "drublic"
+    ],
+    "duration": "58:33",
+    "href": "https://workingdraft.de/303/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3404/0/wd-303.mp3",
+    "title": "Cloud Hosting"
+  },
+  "304": {
+    "id": 304,
+    "date": "2017-06-24",
+    "people": [
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "1:03:11",
+    "href": "https://workingdraft.de/304/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3412/0/wd-304.mp3",
+    "title": "Native Browser-APIs"
+  },
+  "305": {
+    "id": 305,
+    "date": "2017-06-26",
+    "people": [
+      "daten_drang",
+      "philninh",
+      "derSchepp",
+      "ddprrt"
+    ],
+    "duration": "53:16",
+    "href": "https://workingdraft.de/305/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3416/0/wd-305.mp3",
+    "title": "Datenjournalismus"
+  },
+  "306": {
+    "id": 306,
+    "date": "2017-07-3",
+    "people": [
+      "mmatuzo",
+      "derSchepp",
+      "drublic",
+      "ddprrt"
+    ],
+    "duration": "1:19:37",
+    "href": "https://workingdraft.de/306/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3431/0/wd-306.mp3",
+    "title": "Accessibility und CSS Grids"
+  },
+  "307": {
+    "id": 307,
+    "date": "2017-07-25",
+    "people": [
+      "drublic",
+      "helloanselm"
+    ],
+    "duration": "56:08",
+    "href": "https://workingdraft.de/307/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3436/0/wd-307.mp3",
+    "title": "HEIF, Bildformate und -optimierung"
+  },
+  "308": {
+    "id": 308,
+    "date": "2017-08-7",
+    "people": [
+      "maddesigns",
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "1:24:39",
+    "href": "https://workingdraft.de/308/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3443/0/wd-308.mp3",
+    "title": "CSS mit Sven Wolfermann"
+  },
+  "309": {
+    "id": 309,
+    "date": "2017-09-2",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "duration": "1:02:48",
+    "href": "https://workingdraft.de/309/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3454/0/wd-309.mp3",
+    "title": "Kein Thema"
+  },
+  "310": {
+    "id": 310,
+    "date": "2017-09-8",
+    "people": [
+      "derSchepp",
+      "helloanselm",
+      "drublic"
+    ],
+    "duration": "35:53",
+    "href": "https://workingdraft.de/310/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3465/0/wd-310.mp3",
+    "title": "Service Worker – Bericht aus der Praxis"
+  },
+  "311": {
+    "id": 311,
+    "date": "2017-09-13",
+    "people": [
+      "sir_pepe",
+      "ddprrt"
+    ],
+    "duration": "59:25",
+    "href": "https://workingdraft.de/311/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3460/0/wd-311.mp3",
+    "title": "CSS-Klassen und Binär-ASTs"
+  },
+  "312": {
+    "id": 312,
+    "date": "2017-09-15",
+    "people": [
+      "drublic",
+      "sir_pepe",
+      "davidhellmann",
+      "justinschueler"
+    ],
+    "duration": "57:11",
+    "href": "https://workingdraft.de/312/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3463/0/wd-312.mp3",
+    "title": "Zusammenarbeit von Designern und Entwicklern"
+  },
+  "313": {
+    "id": 313,
+    "date": "2017-10-13",
+    "people": [
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "19:52",
+    "href": "https://workingdraft.de/313/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3482/0/wd-313.mp3",
+    "title": "Origin Trials"
+  },
+  "314": {
+    "id": 314,
+    "date": "2017-10-20",
+    "people": [
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "55:54",
+    "href": "https://workingdraft.de/314/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3487/0/wd-314.mp3",
+    "title": "DDD, CQRS und WTF"
+  },
+  "315": {
+    "id": 315,
+    "date": "2017-11-5",
+    "people": [
+      "ddprrt",
+      "helloanselm"
+    ],
+    "duration": "30:15",
+    "href": "https://workingdraft.de/315/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3477/0/wd-315.mp3",
+    "title": "React Lizenzänderung, abortable fetch"
+  },
+  "316": {
+    "id": 316,
+    "date": "2017-11-19",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic"
+    ],
+    "duration": "47:36",
+    "href": "https://workingdraft.de/316/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3512/0/wd-316.mp3",
+    "title": "Google Lighthouse"
+  },
+  "317": {
+    "id": 317,
+    "date": "2017-11-20",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic"
+    ],
+    "duration": "55:44",
+    "href": "https://workingdraft.de/317/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3499/0/wd-317.mp3",
+    "title": "Post-PostCSS"
+  },
+  "318": {
+    "id": 318,
+    "date": "2017-11-21",
+    "people": [
+      "Flocke",
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "1:17:28",
+    "href": "https://workingdraft.de/318/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3516/0/wd-318.mp3",
+    "title": "Strukturiertes CSS"
+  },
+  "319": {
+    "id": 319,
+    "date": "2017-11-28",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe",
+      "ddprrt"
+    ],
+    "duration": "48:22",
+    "href": "https://workingdraft.de/319/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3507/0/wd-319.mp3",
+    "title": "Templates, Super Cookies, Animationen"
+  },
+  "320": {
+    "id": 320,
+    "date": "2017-12-2",
+    "people": [
+      "larsvegas",
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "1:01:44",
+    "href": "https://workingdraft.de/320/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3538/0/wd-320.mp3",
+    "title": "API- und Load-Testing in der Cloud"
+  },
+  "321": {
+    "id": 321,
+    "date": "2017-12-10",
+    "people": [
+      "helloanselm",
+      "ddprrt"
+    ],
+    "duration": "32:51",
+    "href": "https://workingdraft.de/321/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3522/0/wd-321.mp3",
+    "title": "HTTP/2 Server Push"
+  },
+  "322": {
+    "id": 322,
+    "date": "2017-12-11",
+    "people": [
+      "ddprrt",
+      "helloanselm",
+      "drublic",
+      "tobiastom",
+      "foobartel"
+    ],
+    "duration": "47:54",
+    "href": "https://workingdraft.de/322/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3529/0/wd-322.mp3",
+    "title": "Colloq"
+  },
+  "323": {
+    "id": 323,
+    "date": "2017-12-26",
+    "people": [
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "29:08",
+    "href": "https://workingdraft.de/323/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3542/0/wd-323.mp3",
+    "title": "(Asynchrone) Iteratoren"
+  },
+  "324": {
+    "id": 324,
+    "date": "2017-12-31",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "helloanselm",
+      "derSchepp",
+      "muhdiekuh"
+    ],
+    "duration": "1:08:04",
+    "href": "https://workingdraft.de/324/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3545/0/wd-324.mp3",
+    "title": "PHP"
+  },
+  "325": {
+    "id": 325,
+    "date": "2018-01-14",
+    "people": [
+      "jank",
+      "derSchepp",
+      "drublic"
+    ],
+    "duration": "56:23",
+    "href": "https://workingdraft.de/325/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3571/0/wd-325.mp3",
+    "title": "Die Web Audio API"
+  },
+  "326": {
+    "id": 326,
+    "date": "2018-01-22",
+    "people": [
+      "helloanselm",
+      "ddprrt",
+      "marcusschwemer"
+    ],
+    "duration": "1:24:05",
+    "href": "https://workingdraft.de/326/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3564/0/wd-326.mp3",
+    "title": "TYPO3 Performance"
+  },
+  "327": {
+    "id": 327,
+    "date": "2018-01-31",
+    "people": [
+      "dennisreimann",
+      "janpersiel",
+      "drublic",
+      "ddprrt",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "duration": "1:17:19",
+    "href": "https://workingdraft.de/327/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3584/0/wd-327.mp3",
+    "title": "UI-Engineering"
+  },
+  "328": {
+    "id": 328,
+    "date": "2018-02-6",
+    "people": [
+      "distilledhype",
+      "sir_pepe",
+      "drublic"
+    ],
+    "duration": "1:04:20",
+    "href": "https://workingdraft.de/328/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3586/0/wd-328.mp3",
+    "title": "Web Components"
+  },
+  "329": {
+    "id": 329,
+    "date": "2018-02-18",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "helloanselm",
+      "sir_pepe",
+      "DasSurma"
+    ],
+    "duration": "1:07:48",
+    "href": "https://workingdraft.de/329/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3588/0/wd-329.mp3",
+    "title": "Actor Model und CSS Paint API"
+  },
+  "330": {
+    "id": 330,
+    "date": "2018-02-28",
+    "people": [
+      "rodneyrehm",
+      "derSchepp",
+      "drublic"
+    ],
+    "duration": "37:37",
+    "href": "https://workingdraft.de/330/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3605/0/wd-330.mp3",
+    "title": "Geolocation API und das HTML Dialog-Element"
+  },
+  "331": {
+    "id": 331,
+    "date": "2018-03-2",
+    "people": [
+      "nikgraf",
+      "pmmuens",
+      "derSchepp",
+      "ddprrt",
+      "helloanselm",
+      "drublic"
+    ],
+    "duration": "1:31:28",
+    "href": "https://workingdraft.de/331/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3610/0/wd-331.mp3",
+    "title": "Serverless"
+  },
+  "332": {
+    "id": 332,
+    "date": "2018-03-26",
+    "people": [
+      "bmeurer",
+      "sir_pepe",
+      "derSchepp",
+      "ddprrt"
+    ],
+    "duration": "1:36:57",
+    "href": "https://workingdraft.de/332/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3635/0/wd-332.mp3",
+    "title": "Die V8 JavaScript Engine"
+  },
+  "333": {
+    "id": 333,
+    "date": "2018-03-30",
+    "people": [
+      "misprintedtype",
+      "sir_pepe",
+      "drublic"
+    ],
+    "duration": "48:15",
+    "href": "https://workingdraft.de/333/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3627/0/wd-333.mp3",
+    "title": "Webcompat und Open Source Arbeit"
+  },
+  "334": {
+    "id": 334,
+    "date": "2018-04-1",
+    "people": [
+      "helloanselm",
+      "drublic",
+      "glyphe"
+    ],
+    "duration": "1:13:58",
+    "href": "https://workingdraft.de/334/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3629/0/wd-334.mp3",
+    "title": "Typographie im Web"
+  },
+  "335": {
+    "id": 335,
+    "date": "2018-04-13",
+    "people": [
+      "rodneyrehm",
+      "helloanselm",
+      "drublic",
+      "asciidisco"
+    ],
+    "duration": "1:06:42",
+    "href": "https://workingdraft.de/335/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3658/0/wd-335.mp3",
+    "title": "EME? CDM? DRM? CENC? IDK!"
+  },
+  "336": {
+    "id": 336,
+    "date": "2018-04-13",
+    "people": [
+      "jkphl",
+      "l_a_w_4_2",
+      "sebastiangreger",
+      "drublic"
+    ],
+    "duration": "1:29:17",
+    "href": "https://workingdraft.de/336/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3632/0/wd-336.mp3",
+    "title": "DSGVO"
+  },
+  "337": {
+    "id": 337,
+    "date": "2018-04-26",
+    "people": [
+      "fhemberger",
+      "sir_pepe",
+      "helloanselm",
+      "ddprrt"
+    ],
+    "duration": "52:53",
+    "href": "https://workingdraft.de/337/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3667/0/wd-337.mp3",
+    "title": "DevOps"
+  },
+  "338": {
+    "id": 338,
+    "date": "2018-05-5",
+    "people": [
+      "rmehner",
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "1:07:12",
+    "href": "https://workingdraft.de/338/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3687/0/wd-338.mp3",
+    "title": "Web Apps, PWAs und Offline in der Praxis"
+  },
+  "339": {
+    "id": 339,
+    "date": "2018-05-13",
+    "people": [
+      "nikgraf",
+      "ryyppy",
+      "drublic"
+    ],
+    "duration": "59:33",
+    "href": "https://workingdraft.de/339/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3692/0/wd-339.mp3",
+    "title": "ReasonML"
+  },
+  "340": {
+    "id": 340,
+    "date": "2018-05-28",
+    "people": [
+      "ddprrt",
+      "sir_pepe",
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "57:30",
+    "href": "https://workingdraft.de/340/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3675/0/wd-340.mp3",
+    "title": "Glücksrad"
+  },
+  "341": {
+    "id": 341,
+    "date": "2018-06-11",
+    "people": [
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "59:30",
+    "href": "https://workingdraft.de/341/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3678/0/wd-341.mp3",
+    "title": "Visual Studio Code"
+  },
+  "342": {
+    "id": 342,
+    "date": "2018-06-13",
+    "people": [
+      "fetzi_io",
+      "drublic"
+    ],
+    "duration": "59:43",
+    "href": "https://workingdraft.de/342/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3695/0/wd-342.mp3",
+    "title": "Was gibt es Neues in Laravel?"
+  },
+  "343": {
+    "id": 343,
+    "date": "2018-06-15",
+    "people": [
+      "drublic",
+      "ddprrt",
+      "sir_pepe",
+      "derSchepp"
+    ],
+    "duration": "1:07:04",
+    "href": "https://workingdraft.de/343/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3715/0/wd-343.mp3",
+    "title": "Neue Features für JavaScript"
+  },
+  "344": {
+    "id": 344,
+    "date": "2018-06-17",
+    "people": [
+      "another_clue",
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "42:58",
+    "href": "https://workingdraft.de/344/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3713/0/wd-344.mp3",
+    "title": "ReactPHP"
+  },
+  "345": {
+    "id": 345,
+    "date": "2018-07-9",
+    "people": [
+      "fhemberger",
+      "derSchepp",
+      "ddprrt",
+      "drublic"
+    ],
+    "duration": "1:04:01",
+    "href": "https://workingdraft.de/345/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3736/0/wd-345.mp3",
+    "title": "DevOps – Kubernetes, VMs und Co."
+  },
+  "346": {
+    "id": 346,
+    "date": "2018-07-22",
+    "people": [
+      "sir_pepe",
+      "ddprrt",
+      "drublic",
+      "tbaldauf"
+    ],
+    "duration": "1:28:00",
+    "href": "https://workingdraft.de/346/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3744/0/wd-346.mp3",
+    "title": "Wie optimiere ich meine Bilder fürs Web?"
+  },
+  "347": {
+    "id": 347,
+    "date": "2018-07-23",
+    "people": [
+      "fetzi_io",
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "47:34",
+    "href": "https://workingdraft.de/347/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3766/0/wd-347.mp3",
+    "title": "OAuth"
+  },
+  "348": {
+    "id": 348,
+    "date": "2018-07-25",
+    "people": [
+      "maddesigns",
+      "derSchepp",
+      "ddprrt",
+      "rodneyrehm"
+    ],
+    "duration": "1:23:38",
+    "href": "https://workingdraft.de/348/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3786/0/wd-348.mp3",
+    "title": "Performance in 2018"
+  },
+  "349": {
+    "id": 349,
+    "date": "2018-07-25",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "rodneyrehm"
+    ],
+    "duration": "1:05:25",
+    "href": "https://workingdraft.de/349/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3770/0/wd-349.mp3",
+    "title": "Serverseitige Entwicklung mit NodeUnser Sponsor"
+  },
+  "350": {
+    "id": 350,
+    "date": "2018-08-9",
+    "people": [
+      "drublic",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "duration": "52:19",
+    "href": "https://workingdraft.de/350/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3750/0/wd-350.mp3",
+    "title": "HTTP Header"
+  },
+  "351": {
+    "id": 351,
+    "date": "2018-08-13",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "g33konaut"
+    ],
+    "duration": "1:09:23",
+    "href": "https://workingdraft.de/351/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3754/0/wd-351.mp3",
+    "title": "JavaScript und die Google Suche"
+  },
+  "352": {
+    "id": 352,
+    "date": "2018-08-16",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "59:14",
+    "href": "https://workingdraft.de/352/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3805/0/wd-352.mp3",
+    "title": "TypeScript 3.0"
+  },
+  "353": {
+    "id": 353,
+    "date": "2018-08-20",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "makochnet"
+    ],
+    "duration": "1:14:51",
+    "href": "https://workingdraft.de/353/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3818/0/wd-353.mp3",
+    "title": "Kommunikation in (agilen) Teams"
+  },
+  "354": {
+    "id": 354,
+    "date": "2018-08-29",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "43:27",
+    "href": "https://workingdraft.de/354/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3831/0/wd-354.mp3",
+    "title": "Babel-Presets und Konferenzen"
+  },
+  "355": {
+    "id": 355,
+    "date": "2018-09-10",
+    "people": [
+      "ddprrt",
+      "drublic",
+      "Simon_Streubel"
+    ],
+    "duration": "1:04:00",
+    "href": "https://workingdraft.de/355/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3827/0/wd-355.mp3",
+    "title": "Apache Kafka"
+  },
+  "356": {
+    "id": 356,
+    "date": "2018-09-17",
+    "people": [
+      "derSchepp",
+      "drublic",
+      "sir_pepe"
+    ],
+    "duration": "45:20",
+    "href": "https://workingdraft.de/356/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3833/0/wd-356.mp3",
+    "title": "Neues vom Chrome-Browser!"
+  },
+  "357": {
+    "id": 357,
+    "date": "2018-09-18",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "drublic"
+    ],
+    "duration": "49:06",
+    "href": "https://workingdraft.de/357/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3837/0/wd-357.mp3",
+    "title": "Der JAMStack"
+  },
+  "358": {
+    "id": 358,
+    "date": "2018-09-23",
+    "people": [
+      "derSchepp",
+      "html5test"
+    ],
+    "duration": "1:19:30",
+    "href": "https://workingdraft.de/358/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3860/0/wd-358.mp3",
+    "title": "Web Bluetooth & Web USB"
+  },
+  "359": {
+    "id": 359,
+    "date": "2018-09-27",
+    "people": [
+      "ddprrt",
+      "maddesigns",
+      "closingtag"
+    ],
+    "duration": "37:35",
+    "href": "https://workingdraft.de/359/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3849/0/wd-359.mp3",
+    "title": "HTML/CSS für EPUB und Print Stylesheets"
+  },
+  "360": {
+    "id": 360,
+    "date": "2018-10-3",
+    "people": [
+      "ddprrt",
+      "sir_pepe"
+    ],
+    "duration": "54:22",
+    "href": "https://workingdraft.de/360/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3867/0/wd-360.mp3",
+    "title": "CSS-Gate"
+  },
+  "361": {
+    "id": 361,
+    "date": "2018-10-8",
+    "people": [
+      "sir_pepe",
+      "drublic",
+      "derSchepp"
+    ],
+    "duration": "52:23",
+    "href": "https://workingdraft.de/361/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3877/0/wd-361.mp3",
+    "title": "Idle Until Urgent"
+  },
+  "362": {
+    "id": 362,
+    "date": "2018-10-19",
+    "people": [
+      "sir_pepe",
+      "derSchepp",
+      "drublic",
+      "Tobias Oberrauch"
+    ],
+    "duration": "1:00:53",
+    "href": "https://workingdraft.de/362/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3882/0/wd-362.mp3",
+    "title": "Künstliche Intelligenz"
+  },
+  "363": {
+    "id": 363,
+    "date": "2018-10-27",
+    "people": [
+      "ddprrt",
+      "derSchepp",
+      "sir_pepe"
+    ],
+    "duration": "1:12:32",
+    "href": "https://workingdraft.de/363/",
+    "audio": "https://workingdraft.de/podpress_trac/web/3896/0/wd-363.mp3",
+    "title": "Und ihr so?"
+  }
+}
